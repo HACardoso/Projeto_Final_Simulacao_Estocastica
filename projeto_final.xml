@@ -884,7 +884,7 @@
         <Szzuzda1Wy8znaA6m5P>10</Szzuzda1Wy8znaA6m5P>
         <YYqi7YMkywwjRFe5Kim>13</YYqi7YMkywwjRFe5Kim>
         <mO9gdYnZSuJR1LmL3vFI>0</mO9gdYnZSuJR1LmL3vFI>
-        <FDXD43pkpmKenzTqtw4q>1</FDXD43pkpmKenzTqtw4q>
+        <FDXD43pkpmKenzTqtw4q>13</FDXD43pkpmKenzTqtw4q>
         <ZhtdCmZro6yfqW1YjvaY>0</ZhtdCmZro6yfqW1YjvaY>
         <jbFGuZwO3YVVN4TUFxMv>
           <abcde.A2MdclfIIoMRhyjDBH22>
@@ -1175,7 +1175,7 @@
                       <entry>
                         <string>Mean delay</string>
                         <org.modcs.tools.spn.simulator.randomvariates.DefaulRandomParameterProvider>
-                          <Szzuzda1Wy8znaA6m5P>0.0</Szzuzda1Wy8znaA6m5P>
+                          <Szzuzda1Wy8znaA6m5P>1200.0</Szzuzda1Wy8znaA6m5P>
                         </org.modcs.tools.spn.simulator.randomvariates.DefaulRandomParameterProvider>
                       </entry>
                     </YYqi7YMkywwjRFe5Kim>
@@ -1255,7 +1255,7 @@
                       <entry>
                         <string>Mean delay</string>
                         <org.modcs.tools.spn.simulator.randomvariates.DefaulRandomParameterProvider>
-                          <Szzuzda1Wy8znaA6m5P>0.0</Szzuzda1Wy8znaA6m5P>
+                          <Szzuzda1Wy8znaA6m5P>180.0</Szzuzda1Wy8znaA6m5P>
                         </org.modcs.tools.spn.simulator.randomvariates.DefaulRandomParameterProvider>
                       </entry>
                     </YYqi7YMkywwjRFe5Kim>
@@ -1278,7 +1278,6 @@
                                 <YYqi7YMkywwjRFe5Kim>false</YYqi7YMkywwjRFe5Kim>
                               </Szzuzda1Wy8znaA6m5P>
                             </Szzuzda1Wy8znaA6m5P>
-                            <YYqi7YMkywwjRFe5Kim reference="../../../../../../../../jbFGuZwO3YVVN4TUFxMv/abcde.A2MdclfIIoMRhyjDBH22[6]"/>
                           </mO9gdYnZSuJR1LmL3vFI>
                         </FDXD43pkpmKenzTqtw4q>
                       </Szzuzda1Wy8znaA6m5P>
@@ -1324,7 +1323,7 @@
                       <entry>
                         <string>Mean delay</string>
                         <org.modcs.tools.spn.simulator.randomvariates.DefaulRandomParameterProvider>
-                          <Szzuzda1Wy8znaA6m5P>0.0</Szzuzda1Wy8znaA6m5P>
+                          <Szzuzda1Wy8znaA6m5P>600.0</Szzuzda1Wy8znaA6m5P>
                         </org.modcs.tools.spn.simulator.randomvariates.DefaulRandomParameterProvider>
                       </entry>
                     </YYqi7YMkywwjRFe5Kim>
@@ -1347,7 +1346,6 @@
                                 <YYqi7YMkywwjRFe5Kim>false</YYqi7YMkywwjRFe5Kim>
                               </Szzuzda1Wy8znaA6m5P>
                             </Szzuzda1Wy8znaA6m5P>
-                            <YYqi7YMkywwjRFe5Kim reference="../../../../../../../../jbFGuZwO3YVVN4TUFxMv/abcde.A2MdclfIIoMRhyjDBH22[6]"/>
                           </mO9gdYnZSuJR1LmL3vFI>
                         </FDXD43pkpmKenzTqtw4q>
                       </Szzuzda1Wy8znaA6m5P>
@@ -1393,7 +1391,7 @@
                       <entry>
                         <string>Mean delay</string>
                         <org.modcs.tools.spn.simulator.randomvariates.DefaulRandomParameterProvider>
-                          <Szzuzda1Wy8znaA6m5P>0.0</Szzuzda1Wy8znaA6m5P>
+                          <Szzuzda1Wy8znaA6m5P>1200.0</Szzuzda1Wy8znaA6m5P>
                         </org.modcs.tools.spn.simulator.randomvariates.DefaulRandomParameterProvider>
                       </entry>
                     </YYqi7YMkywwjRFe5Kim>
@@ -1416,7 +1414,6 @@
                                 <YYqi7YMkywwjRFe5Kim>false</YYqi7YMkywwjRFe5Kim>
                               </Szzuzda1Wy8znaA6m5P>
                             </Szzuzda1Wy8znaA6m5P>
-                            <YYqi7YMkywwjRFe5Kim reference="../../../../../../../../jbFGuZwO3YVVN4TUFxMv/abcde.A2MdclfIIoMRhyjDBH22[7]"/>
                           </mO9gdYnZSuJR1LmL3vFI>
                         </FDXD43pkpmKenzTqtw4q>
                       </Szzuzda1Wy8znaA6m5P>
@@ -1470,7 +1467,7 @@
                       <entry>
                         <string>Mean delay</string>
                         <org.modcs.tools.spn.simulator.randomvariates.DefaulRandomParameterProvider>
-                          <Szzuzda1Wy8znaA6m5P>0.0</Szzuzda1Wy8znaA6m5P>
+                          <Szzuzda1Wy8znaA6m5P>180.0</Szzuzda1Wy8znaA6m5P>
                         </org.modcs.tools.spn.simulator.randomvariates.DefaulRandomParameterProvider>
                       </entry>
                     </YYqi7YMkywwjRFe5Kim>
@@ -1493,7 +1490,6 @@
                                 <YYqi7YMkywwjRFe5Kim>false</YYqi7YMkywwjRFe5Kim>
                               </Szzuzda1Wy8znaA6m5P>
                             </Szzuzda1Wy8znaA6m5P>
-                            <YYqi7YMkywwjRFe5Kim reference="../../../../../../../../jbFGuZwO3YVVN4TUFxMv/abcde.A2MdclfIIoMRhyjDBH22[7]"/>
                           </mO9gdYnZSuJR1LmL3vFI>
                         </FDXD43pkpmKenzTqtw4q>
                       </Szzuzda1Wy8znaA6m5P>
@@ -1553,7 +1549,7 @@
                       <entry>
                         <string>Mean delay</string>
                         <org.modcs.tools.spn.simulator.randomvariates.DefaulRandomParameterProvider>
-                          <Szzuzda1Wy8znaA6m5P>0.0</Szzuzda1Wy8znaA6m5P>
+                          <Szzuzda1Wy8znaA6m5P>100.0</Szzuzda1Wy8znaA6m5P>
                         </org.modcs.tools.spn.simulator.randomvariates.DefaulRandomParameterProvider>
                       </entry>
                     </YYqi7YMkywwjRFe5Kim>
@@ -1577,7 +1573,6 @@
                                   <YYqi7YMkywwjRFe5Kim>false</YYqi7YMkywwjRFe5Kim>
                                 </Szzuzda1Wy8znaA6m5P>
                               </Szzuzda1Wy8znaA6m5P>
-                              <YYqi7YMkywwjRFe5Kim reference="../../../../../../../../../.."/>
                             </mO9gdYnZSuJR1LmL3vFI>
                           </FDXD43pkpmKenzTqtw4q>
                         </Szzuzda1Wy8znaA6m5P>
@@ -1608,22 +1603,6 @@
                                     <YYqi7YMkywwjRFe5Kim>false</YYqi7YMkywwjRFe5Kim>
                                   </Szzuzda1Wy8znaA6m5P>
                                 </Szzuzda1Wy8znaA6m5P>
-                                <YYqi7YMkywwjRFe5Kim>
-                                  <Szzuzda1Wy8znaA6m5P>Pista_1_decolagem</Szzuzda1Wy8znaA6m5P>
-                                  <YYqi7YMkywwjRFe5Kim>0</YYqi7YMkywwjRFe5Kim>
-                                  <mO9gdYnZSuJR1LmL3vFI>0</mO9gdYnZSuJR1LmL3vFI>
-                                  <FDXD43pkpmKenzTqtw4q class="java.awt.geom.Point2D$Double">
-                                    <x>4.0</x>
-                                    <y>3.72</y>
-                                  </FDXD43pkpmKenzTqtw4q>
-                                  <ZhtdCmZro6yfqW1YjvaY class="java.awt.Point">
-                                    <x>565</x>
-                                    <y>541</y>
-                                  </ZhtdCmZro6yfqW1YjvaY>
-                                  <yWmtn6d2doiKX4QxaSdU reference="../../../../../../../../../../.."/>
-                                  <jbFGuZwO3YVVN4TUFxMv>0</jbFGuZwO3YVVN4TUFxMv>
-                                  <EK59Mhbt1hylyRwuMSBD></EK59Mhbt1hylyRwuMSBD>
-                                </YYqi7YMkywwjRFe5Kim>
                               </mO9gdYnZSuJR1LmL3vFI>
                             </FDXD43pkpmKenzTqtw4q>
                           </Szzuzda1Wy8znaA6m5P>
@@ -1653,7 +1632,6 @@
                                     <YYqi7YMkywwjRFe5Kim>false</YYqi7YMkywwjRFe5Kim>
                                   </Szzuzda1Wy8znaA6m5P>
                                 </Szzuzda1Wy8znaA6m5P>
-                                <YYqi7YMkywwjRFe5Kim reference="../../../../../../../../../../../../abcde.A2MdclfIIoMRhyjDBH22[2]"/>
                               </mO9gdYnZSuJR1LmL3vFI>
                             </FDXD43pkpmKenzTqtw4q>
                           </Szzuzda1Wy8znaA6m5P>
@@ -1715,7 +1693,7 @@
                       <entry>
                         <string>Mean delay</string>
                         <org.modcs.tools.spn.simulator.randomvariates.DefaulRandomParameterProvider>
-                          <Szzuzda1Wy8znaA6m5P>0.0</Szzuzda1Wy8znaA6m5P>
+                          <Szzuzda1Wy8znaA6m5P>100.0</Szzuzda1Wy8znaA6m5P>
                         </org.modcs.tools.spn.simulator.randomvariates.DefaulRandomParameterProvider>
                       </entry>
                     </YYqi7YMkywwjRFe5Kim>
@@ -1739,7 +1717,6 @@
                                   <YYqi7YMkywwjRFe5Kim>false</YYqi7YMkywwjRFe5Kim>
                                 </Szzuzda1Wy8znaA6m5P>
                               </Szzuzda1Wy8znaA6m5P>
-                              <YYqi7YMkywwjRFe5Kim reference="../../../../../../../../../jbFGuZwO3YVVN4TUFxMv/abcde.A2MdclfIIoMRhyjDBH22[4]"/>
                             </mO9gdYnZSuJR1LmL3vFI>
                           </FDXD43pkpmKenzTqtw4q>
                         </Szzuzda1Wy8znaA6m5P>
@@ -1770,22 +1747,6 @@
                                     <YYqi7YMkywwjRFe5Kim>false</YYqi7YMkywwjRFe5Kim>
                                   </Szzuzda1Wy8znaA6m5P>
                                 </Szzuzda1Wy8znaA6m5P>
-                                <YYqi7YMkywwjRFe5Kim>
-                                  <Szzuzda1Wy8znaA6m5P>Pista_2_decolagem</Szzuzda1Wy8znaA6m5P>
-                                  <YYqi7YMkywwjRFe5Kim>0</YYqi7YMkywwjRFe5Kim>
-                                  <mO9gdYnZSuJR1LmL3vFI>0</mO9gdYnZSuJR1LmL3vFI>
-                                  <FDXD43pkpmKenzTqtw4q class="java.awt.geom.Point2D$Double">
-                                    <x>4.76</x>
-                                    <y>3.76</y>
-                                  </FDXD43pkpmKenzTqtw4q>
-                                  <ZhtdCmZro6yfqW1YjvaY class="java.awt.Point">
-                                    <x>686</x>
-                                    <y>528</y>
-                                  </ZhtdCmZro6yfqW1YjvaY>
-                                  <yWmtn6d2doiKX4QxaSdU reference="../../../../../../../../../../.."/>
-                                  <jbFGuZwO3YVVN4TUFxMv>0</jbFGuZwO3YVVN4TUFxMv>
-                                  <EK59Mhbt1hylyRwuMSBD></EK59Mhbt1hylyRwuMSBD>
-                                </YYqi7YMkywwjRFe5Kim>
                               </mO9gdYnZSuJR1LmL3vFI>
                             </FDXD43pkpmKenzTqtw4q>
                           </Szzuzda1Wy8znaA6m5P>
@@ -1815,7 +1776,6 @@
                                     <YYqi7YMkywwjRFe5Kim>false</YYqi7YMkywwjRFe5Kim>
                                   </Szzuzda1Wy8znaA6m5P>
                                 </Szzuzda1Wy8znaA6m5P>
-                                <YYqi7YMkywwjRFe5Kim reference="../../../../../../../../../../../../abcde.A2MdclfIIoMRhyjDBH22[2]"/>
                               </mO9gdYnZSuJR1LmL3vFI>
                             </FDXD43pkpmKenzTqtw4q>
                           </Szzuzda1Wy8znaA6m5P>
@@ -1860,7 +1820,22 @@
                   <jbFGuZwO3YVVN4TUFxMv>
                     <abcde.PZevL9oYvuu91svdaxo>
                       <Szzuzda1Wy8znaA6m5P defined-in="abcde.TdOCYFwdcKS9F2mYfYmM">12</Szzuzda1Wy8znaA6m5P>
-                      <YYqi7YMkywwjRFe5Kim reference="../../../../abcde.D0ykUwKwqzv341NC8ghj[6]/mO9gdYnZSuJR1LmL3vFI[2]/ZhtdCmZro6yfqW1YjvaY/mO9gdYnZSuJR1LmL3vFI/Szzuzda1Wy8znaA6m5P/Szzuzda1Wy8znaA6m5P/FDXD43pkpmKenzTqtw4q/mO9gdYnZSuJR1LmL3vFI/YYqi7YMkywwjRFe5Kim"/>
+                      <YYqi7YMkywwjRFe5Kim>
+                        <Szzuzda1Wy8znaA6m5P>Pista_1_decolagem</Szzuzda1Wy8znaA6m5P>
+                        <YYqi7YMkywwjRFe5Kim>0</YYqi7YMkywwjRFe5Kim>
+                        <mO9gdYnZSuJR1LmL3vFI>0</mO9gdYnZSuJR1LmL3vFI>
+                        <FDXD43pkpmKenzTqtw4q class="java.awt.geom.Point2D$Double">
+                          <x>4.0</x>
+                          <y>3.72</y>
+                        </FDXD43pkpmKenzTqtw4q>
+                        <ZhtdCmZro6yfqW1YjvaY class="java.awt.Point">
+                          <x>565</x>
+                          <y>541</y>
+                        </ZhtdCmZro6yfqW1YjvaY>
+                        <yWmtn6d2doiKX4QxaSdU reference="../../../../../.."/>
+                        <jbFGuZwO3YVVN4TUFxMv>0</jbFGuZwO3YVVN4TUFxMv>
+                        <EK59Mhbt1hylyRwuMSBD></EK59Mhbt1hylyRwuMSBD>
+                      </YYqi7YMkywwjRFe5Kim>
                       <mO9gdYnZSuJR1LmL3vFI>1</mO9gdYnZSuJR1LmL3vFI>
                       <FDXD43pkpmKenzTqtw4q class="abcde.D0ykUwKwqzv341NC8ghj" reference="../../.."/>
                     </abcde.PZevL9oYvuu91svdaxo>
@@ -1877,7 +1852,7 @@
                       <entry>
                         <string>Mean delay</string>
                         <org.modcs.tools.spn.simulator.randomvariates.DefaulRandomParameterProvider>
-                          <Szzuzda1Wy8znaA6m5P>0.0</Szzuzda1Wy8znaA6m5P>
+                          <Szzuzda1Wy8znaA6m5P>300.0</Szzuzda1Wy8znaA6m5P>
                         </org.modcs.tools.spn.simulator.randomvariates.DefaulRandomParameterProvider>
                       </entry>
                     </YYqi7YMkywwjRFe5Kim>
@@ -1901,7 +1876,6 @@
                                   <YYqi7YMkywwjRFe5Kim>false</YYqi7YMkywwjRFe5Kim>
                                 </Szzuzda1Wy8znaA6m5P>
                               </Szzuzda1Wy8znaA6m5P>
-                              <YYqi7YMkywwjRFe5Kim reference="../../../../../../../../abcde.D0ykUwKwqzv341NC8ghj[6]/mO9gdYnZSuJR1LmL3vFI[2]/ZhtdCmZro6yfqW1YjvaY/mO9gdYnZSuJR1LmL3vFI/Szzuzda1Wy8znaA6m5P/Szzuzda1Wy8znaA6m5P/FDXD43pkpmKenzTqtw4q/mO9gdYnZSuJR1LmL3vFI/YYqi7YMkywwjRFe5Kim"/>
                             </mO9gdYnZSuJR1LmL3vFI>
                           </FDXD43pkpmKenzTqtw4q>
                         </Szzuzda1Wy8znaA6m5P>
@@ -1932,7 +1906,6 @@
                                     <YYqi7YMkywwjRFe5Kim>false</YYqi7YMkywwjRFe5Kim>
                                   </Szzuzda1Wy8znaA6m5P>
                                 </Szzuzda1Wy8znaA6m5P>
-                                <YYqi7YMkywwjRFe5Kim reference="../../../../../../../../../../../../abcde.A2MdclfIIoMRhyjDBH22[2]"/>
                               </mO9gdYnZSuJR1LmL3vFI>
                             </FDXD43pkpmKenzTqtw4q>
                           </Szzuzda1Wy8znaA6m5P>
@@ -1963,7 +1936,6 @@
                                       <YYqi7YMkywwjRFe5Kim>false</YYqi7YMkywwjRFe5Kim>
                                     </Szzuzda1Wy8znaA6m5P>
                                   </Szzuzda1Wy8znaA6m5P>
-                                  <YYqi7YMkywwjRFe5Kim reference="../../../../../../../../../../../.."/>
                                 </mO9gdYnZSuJR1LmL3vFI>
                               </FDXD43pkpmKenzTqtw4q>
                             </Szzuzda1Wy8znaA6m5P>
@@ -1993,7 +1965,6 @@
                                       <YYqi7YMkywwjRFe5Kim>false</YYqi7YMkywwjRFe5Kim>
                                     </Szzuzda1Wy8znaA6m5P>
                                   </Szzuzda1Wy8znaA6m5P>
-                                  <YYqi7YMkywwjRFe5Kim reference="../../../../../../../../../../../../../abcde.A2MdclfIIoMRhyjDBH22"/>
                                 </mO9gdYnZSuJR1LmL3vFI>
                               </FDXD43pkpmKenzTqtw4q>
                             </Szzuzda1Wy8znaA6m5P>
@@ -2039,7 +2010,22 @@
                   <jbFGuZwO3YVVN4TUFxMv>
                     <abcde.PZevL9oYvuu91svdaxo>
                       <Szzuzda1Wy8znaA6m5P defined-in="abcde.TdOCYFwdcKS9F2mYfYmM">12</Szzuzda1Wy8znaA6m5P>
-                      <YYqi7YMkywwjRFe5Kim reference="../../../../abcde.D0ykUwKwqzv341NC8ghj[7]/mO9gdYnZSuJR1LmL3vFI[2]/ZhtdCmZro6yfqW1YjvaY/mO9gdYnZSuJR1LmL3vFI/Szzuzda1Wy8znaA6m5P/Szzuzda1Wy8znaA6m5P/FDXD43pkpmKenzTqtw4q/mO9gdYnZSuJR1LmL3vFI/YYqi7YMkywwjRFe5Kim"/>
+                      <YYqi7YMkywwjRFe5Kim>
+                        <Szzuzda1Wy8znaA6m5P>Pista_2_decolagem</Szzuzda1Wy8znaA6m5P>
+                        <YYqi7YMkywwjRFe5Kim>0</YYqi7YMkywwjRFe5Kim>
+                        <mO9gdYnZSuJR1LmL3vFI>0</mO9gdYnZSuJR1LmL3vFI>
+                        <FDXD43pkpmKenzTqtw4q class="java.awt.geom.Point2D$Double">
+                          <x>4.76</x>
+                          <y>3.76</y>
+                        </FDXD43pkpmKenzTqtw4q>
+                        <ZhtdCmZro6yfqW1YjvaY class="java.awt.Point">
+                          <x>686</x>
+                          <y>528</y>
+                        </ZhtdCmZro6yfqW1YjvaY>
+                        <yWmtn6d2doiKX4QxaSdU reference="../../../../../.."/>
+                        <jbFGuZwO3YVVN4TUFxMv>0</jbFGuZwO3YVVN4TUFxMv>
+                        <EK59Mhbt1hylyRwuMSBD></EK59Mhbt1hylyRwuMSBD>
+                      </YYqi7YMkywwjRFe5Kim>
                       <mO9gdYnZSuJR1LmL3vFI>1</mO9gdYnZSuJR1LmL3vFI>
                       <FDXD43pkpmKenzTqtw4q class="abcde.D0ykUwKwqzv341NC8ghj" reference="../../.."/>
                     </abcde.PZevL9oYvuu91svdaxo>
@@ -2056,7 +2042,7 @@
                       <entry>
                         <string>Mean delay</string>
                         <org.modcs.tools.spn.simulator.randomvariates.DefaulRandomParameterProvider>
-                          <Szzuzda1Wy8znaA6m5P>0.0</Szzuzda1Wy8znaA6m5P>
+                          <Szzuzda1Wy8znaA6m5P>300.0</Szzuzda1Wy8znaA6m5P>
                         </org.modcs.tools.spn.simulator.randomvariates.DefaulRandomParameterProvider>
                       </entry>
                     </YYqi7YMkywwjRFe5Kim>
@@ -2080,7 +2066,6 @@
                                   <YYqi7YMkywwjRFe5Kim>false</YYqi7YMkywwjRFe5Kim>
                                 </Szzuzda1Wy8znaA6m5P>
                               </Szzuzda1Wy8znaA6m5P>
-                              <YYqi7YMkywwjRFe5Kim reference="../../../../../../../../abcde.D0ykUwKwqzv341NC8ghj[7]/mO9gdYnZSuJR1LmL3vFI[2]/ZhtdCmZro6yfqW1YjvaY/mO9gdYnZSuJR1LmL3vFI/Szzuzda1Wy8znaA6m5P/Szzuzda1Wy8znaA6m5P/FDXD43pkpmKenzTqtw4q/mO9gdYnZSuJR1LmL3vFI/YYqi7YMkywwjRFe5Kim"/>
                             </mO9gdYnZSuJR1LmL3vFI>
                           </FDXD43pkpmKenzTqtw4q>
                         </Szzuzda1Wy8znaA6m5P>
@@ -2111,7 +2096,6 @@
                                     <YYqi7YMkywwjRFe5Kim>false</YYqi7YMkywwjRFe5Kim>
                                   </Szzuzda1Wy8znaA6m5P>
                                 </Szzuzda1Wy8znaA6m5P>
-                                <YYqi7YMkywwjRFe5Kim reference="../../../../../../../../../../jbFGuZwO3YVVN4TUFxMv/abcde.A2MdclfIIoMRhyjDBH22[4]"/>
                               </mO9gdYnZSuJR1LmL3vFI>
                             </FDXD43pkpmKenzTqtw4q>
                           </Szzuzda1Wy8znaA6m5P>
@@ -2142,7 +2126,6 @@
                                       <YYqi7YMkywwjRFe5Kim>false</YYqi7YMkywwjRFe5Kim>
                                     </Szzuzda1Wy8znaA6m5P>
                                   </Szzuzda1Wy8znaA6m5P>
-                                  <YYqi7YMkywwjRFe5Kim reference="../../../../../../../../../../../../../abcde.A2MdclfIIoMRhyjDBH22[2]"/>
                                 </mO9gdYnZSuJR1LmL3vFI>
                               </FDXD43pkpmKenzTqtw4q>
                             </Szzuzda1Wy8znaA6m5P>
@@ -2172,7 +2155,6 @@
                                       <YYqi7YMkywwjRFe5Kim>false</YYqi7YMkywwjRFe5Kim>
                                     </Szzuzda1Wy8znaA6m5P>
                                   </Szzuzda1Wy8znaA6m5P>
-                                  <YYqi7YMkywwjRFe5Kim reference="../../../../../../../../../../../../../abcde.A2MdclfIIoMRhyjDBH22"/>
                                 </mO9gdYnZSuJR1LmL3vFI>
                               </FDXD43pkpmKenzTqtw4q>
                             </Szzuzda1Wy8znaA6m5P>
@@ -2293,7 +2275,7 @@
                       <entry>
                         <string>Mean delay</string>
                         <org.modcs.tools.spn.simulator.randomvariates.DefaulRandomParameterProvider>
-                          <Szzuzda1Wy8znaA6m5P>0.0</Szzuzda1Wy8znaA6m5P>
+                          <Szzuzda1Wy8znaA6m5P>240.0</Szzuzda1Wy8znaA6m5P>
                         </org.modcs.tools.spn.simulator.randomvariates.DefaulRandomParameterProvider>
                       </entry>
                     </YYqi7YMkywwjRFe5Kim>
@@ -2435,7 +2417,7 @@
                       <entry>
                         <string>Mean delay</string>
                         <org.modcs.tools.spn.simulator.randomvariates.DefaulRandomParameterProvider>
-                          <Szzuzda1Wy8znaA6m5P>0.0</Szzuzda1Wy8znaA6m5P>
+                          <Szzuzda1Wy8znaA6m5P>240.0</Szzuzda1Wy8znaA6m5P>
                         </org.modcs.tools.spn.simulator.randomvariates.DefaulRandomParameterProvider>
                       </entry>
                     </YYqi7YMkywwjRFe5Kim>
@@ -2555,7 +2537,7 @@
                   <Szzuzda1Wy8znaA6m5P>Pouso_pista_2</Szzuzda1Wy8znaA6m5P>
                   <YYqi7YMkywwjRFe5Kim class="java.awt.geom.Point2D$Double">
                     <x>2.632000000000001</x>
-                    <y>5.397333333333333</y>
+                    <y>5.4</y>
                   </YYqi7YMkywwjRFe5Kim>
                 </abcde.Xii9lKUsPozVtyjSrf8u>
                 <abcde.Xii9lKUsPozVtyjSrf8u>
@@ -2598,8 +2580,8 @@
           <abcde.A2MdclfIIoMRhyjDBH22 reference="../abcde.A2MdclfIIoMRhyjDBH22[3]/yWmtn6d2doiKX4QxaSdU/jbFGuZwO3YVVN4TUFxMv/abcde.A2MdclfIIoMRhyjDBH22[6]"/>
           <abcde.A2MdclfIIoMRhyjDBH22 reference="../abcde.A2MdclfIIoMRhyjDBH22[3]/yWmtn6d2doiKX4QxaSdU/jbFGuZwO3YVVN4TUFxMv/abcde.A2MdclfIIoMRhyjDBH22[7]"/>
           <abcde.A2MdclfIIoMRhyjDBH22 reference="../abcde.A2MdclfIIoMRhyjDBH22[3]/yWmtn6d2doiKX4QxaSdU/jbFGuZwO3YVVN4TUFxMv/abcde.A2MdclfIIoMRhyjDBH22[8]"/>
-          <abcde.A2MdclfIIoMRhyjDBH22 reference="../abcde.A2MdclfIIoMRhyjDBH22[3]/yWmtn6d2doiKX4QxaSdU/LCIws3JWF5lWCjhafOk/abcde.D0ykUwKwqzv341NC8ghj[6]/mO9gdYnZSuJR1LmL3vFI[2]/ZhtdCmZro6yfqW1YjvaY/mO9gdYnZSuJR1LmL3vFI/Szzuzda1Wy8znaA6m5P/Szzuzda1Wy8znaA6m5P/FDXD43pkpmKenzTqtw4q/mO9gdYnZSuJR1LmL3vFI/YYqi7YMkywwjRFe5Kim"/>
-          <abcde.A2MdclfIIoMRhyjDBH22 reference="../abcde.A2MdclfIIoMRhyjDBH22[3]/yWmtn6d2doiKX4QxaSdU/LCIws3JWF5lWCjhafOk/abcde.D0ykUwKwqzv341NC8ghj[7]/mO9gdYnZSuJR1LmL3vFI[2]/ZhtdCmZro6yfqW1YjvaY/mO9gdYnZSuJR1LmL3vFI/Szzuzda1Wy8znaA6m5P/Szzuzda1Wy8znaA6m5P/FDXD43pkpmKenzTqtw4q/mO9gdYnZSuJR1LmL3vFI/YYqi7YMkywwjRFe5Kim"/>
+          <abcde.A2MdclfIIoMRhyjDBH22 reference="../abcde.A2MdclfIIoMRhyjDBH22[3]/yWmtn6d2doiKX4QxaSdU/LCIws3JWF5lWCjhafOk/abcde.D0ykUwKwqzv341NC8ghj[8]/jbFGuZwO3YVVN4TUFxMv/abcde.PZevL9oYvuu91svdaxo/YYqi7YMkywwjRFe5Kim"/>
+          <abcde.A2MdclfIIoMRhyjDBH22 reference="../abcde.A2MdclfIIoMRhyjDBH22[3]/yWmtn6d2doiKX4QxaSdU/LCIws3JWF5lWCjhafOk/abcde.D0ykUwKwqzv341NC8ghj[9]/jbFGuZwO3YVVN4TUFxMv/abcde.PZevL9oYvuu91svdaxo/YYqi7YMkywwjRFe5Kim"/>
         </jbFGuZwO3YVVN4TUFxMv>
         <EK59Mhbt1hylyRwuMSBD/>
         <LCIws3JWF5lWCjhafOk>
@@ -2623,7 +2605,7 @@
             <yWmtn6d2doiKX4QxaSdU defined-in="abcde.HsEpPsQMaYq5MsDD3JIJ">
               <abcde.DW9DPfrq2u1ZZdUfrvqA>
                 <Szzuzda1Wy8znaA6m5P defined-in="abcde.TdOCYFwdcKS9F2mYfYmM">12</Szzuzda1Wy8znaA6m5P>
-                <YYqi7YMkywwjRFe5Kim reference="../../../../../jbFGuZwO3YVVN4TUFxMv/abcde.A2MdclfIIoMRhyjDBH22[3]/yWmtn6d2doiKX4QxaSdU/LCIws3JWF5lWCjhafOk/abcde.D0ykUwKwqzv341NC8ghj[6]/mO9gdYnZSuJR1LmL3vFI[2]/ZhtdCmZro6yfqW1YjvaY/mO9gdYnZSuJR1LmL3vFI/Szzuzda1Wy8znaA6m5P/Szzuzda1Wy8znaA6m5P/FDXD43pkpmKenzTqtw4q/mO9gdYnZSuJR1LmL3vFI/YYqi7YMkywwjRFe5Kim"/>
+                <YYqi7YMkywwjRFe5Kim reference="../../../../../jbFGuZwO3YVVN4TUFxMv/abcde.A2MdclfIIoMRhyjDBH22[3]/yWmtn6d2doiKX4QxaSdU/LCIws3JWF5lWCjhafOk/abcde.D0ykUwKwqzv341NC8ghj[8]/jbFGuZwO3YVVN4TUFxMv/abcde.PZevL9oYvuu91svdaxo/YYqi7YMkywwjRFe5Kim"/>
                 <mO9gdYnZSuJR1LmL3vFI>1</mO9gdYnZSuJR1LmL3vFI>
                 <FDXD43pkpmKenzTqtw4q class="abcde.D0ykUwKwqzv341NC8ghj" reference="../../.."/>
               </abcde.DW9DPfrq2u1ZZdUfrvqA>
@@ -2734,7 +2716,7 @@
                 <entry>
                   <string>Mean delay</string>
                   <org.modcs.tools.spn.simulator.randomvariates.DefaulRandomParameterProvider>
-                    <Szzuzda1Wy8znaA6m5P>0.0</Szzuzda1Wy8znaA6m5P>
+                    <Szzuzda1Wy8znaA6m5P>240.0</Szzuzda1Wy8znaA6m5P>
                   </org.modcs.tools.spn.simulator.randomvariates.DefaulRandomParameterProvider>
                 </entry>
               </YYqi7YMkywwjRFe5Kim>
@@ -2759,7 +2741,7 @@
             <yWmtn6d2doiKX4QxaSdU defined-in="abcde.HsEpPsQMaYq5MsDD3JIJ">
               <abcde.DW9DPfrq2u1ZZdUfrvqA>
                 <Szzuzda1Wy8znaA6m5P defined-in="abcde.TdOCYFwdcKS9F2mYfYmM">12</Szzuzda1Wy8znaA6m5P>
-                <YYqi7YMkywwjRFe5Kim reference="../../../../../jbFGuZwO3YVVN4TUFxMv/abcde.A2MdclfIIoMRhyjDBH22[3]/yWmtn6d2doiKX4QxaSdU/LCIws3JWF5lWCjhafOk/abcde.D0ykUwKwqzv341NC8ghj[7]/mO9gdYnZSuJR1LmL3vFI[2]/ZhtdCmZro6yfqW1YjvaY/mO9gdYnZSuJR1LmL3vFI/Szzuzda1Wy8znaA6m5P/Szzuzda1Wy8znaA6m5P/FDXD43pkpmKenzTqtw4q/mO9gdYnZSuJR1LmL3vFI/YYqi7YMkywwjRFe5Kim"/>
+                <YYqi7YMkywwjRFe5Kim reference="../../../../../jbFGuZwO3YVVN4TUFxMv/abcde.A2MdclfIIoMRhyjDBH22[3]/yWmtn6d2doiKX4QxaSdU/LCIws3JWF5lWCjhafOk/abcde.D0ykUwKwqzv341NC8ghj[9]/jbFGuZwO3YVVN4TUFxMv/abcde.PZevL9oYvuu91svdaxo/YYqi7YMkywwjRFe5Kim"/>
                 <mO9gdYnZSuJR1LmL3vFI>1</mO9gdYnZSuJR1LmL3vFI>
                 <FDXD43pkpmKenzTqtw4q class="abcde.D0ykUwKwqzv341NC8ghj" reference="../../.."/>
               </abcde.DW9DPfrq2u1ZZdUfrvqA>
@@ -2898,7 +2880,7 @@
                 <entry>
                   <string>Mean delay</string>
                   <org.modcs.tools.spn.simulator.randomvariates.DefaulRandomParameterProvider>
-                    <Szzuzda1Wy8znaA6m5P>0.0</Szzuzda1Wy8znaA6m5P>
+                    <Szzuzda1Wy8znaA6m5P>240.0</Szzuzda1Wy8znaA6m5P>
                   </org.modcs.tools.spn.simulator.randomvariates.DefaulRandomParameterProvider>
                 </entry>
               </YYqi7YMkywwjRFe5Kim>
@@ -2966,13 +2948,950 @@
         </FWOWpURpNuQYsTRburJT>
         <KuQjagj4MdTpQIi0Ohsd>
           <abcde.EUvYgVl5kneaSPSsWHDb>
-            <Szzuzda1Wy8znaA6m5P>Metric0</Szzuzda1Wy8znaA6m5P>
-            <mO9gdYnZSuJR1LmL3vFI></mO9gdYnZSuJR1LmL3vFI>
-            <FDXD43pkpmKenzTqtw4q></FDXD43pkpmKenzTqtw4q>
+            <Szzuzda1Wy8znaA6m5P>Utilizacao_Pista</Szzuzda1Wy8znaA6m5P>
+            <YYqi7YMkywwjRFe5Kim>
+              <Szzuzda1Wy8znaA6m5P>
+                <mO9gdYnZSuJR1LmL3vFI>
+                  <Szzuzda1Wy8znaA6m5P>
+                    <Szzuzda1Wy8znaA6m5P>
+                      <Szzuzda1Wy8znaA6m5P>
+                        <Szzuzda1Wy8znaA6m5P>
+                          <FDXD43pkpmKenzTqtw4q>
+                            <mO9gdYnZSuJR1LmL3vFI>
+                              <Szzuzda1Wy8znaA6m5P>
+                                <Szzuzda1Wy8znaA6m5P>
+                                  <Szzuzda1Wy8znaA6m5P>Torre_Controle</Szzuzda1Wy8znaA6m5P>
+                                  <YYqi7YMkywwjRFe5Kim>false</YYqi7YMkywwjRFe5Kim>
+                                </Szzuzda1Wy8znaA6m5P>
+                              </Szzuzda1Wy8znaA6m5P>
+                            </mO9gdYnZSuJR1LmL3vFI>
+                          </FDXD43pkpmKenzTqtw4q>
+                        </Szzuzda1Wy8znaA6m5P>
+                        <YYqi7YMkywwjRFe5Kim>
+                          <YYqi7YMkywwjRFe5Kim>=</YYqi7YMkywwjRFe5Kim>
+                        </YYqi7YMkywwjRFe5Kim>
+                        <mO9gdYnZSuJR1LmL3vFI>
+                          <FDXD43pkpmKenzTqtw4q>
+                            <Szzuzda1Wy8znaA6m5P>
+                              <Szzuzda1Wy8znaA6m5P>0</Szzuzda1Wy8znaA6m5P>
+                            </Szzuzda1Wy8znaA6m5P>
+                          </FDXD43pkpmKenzTqtw4q>
+                        </mO9gdYnZSuJR1LmL3vFI>
+                      </Szzuzda1Wy8znaA6m5P>
+                    </Szzuzda1Wy8znaA6m5P>
+                    <YYqi7YMkywwjRFe5Kim>0.0</YYqi7YMkywwjRFe5Kim>
+                    <mO9gdYnZSuJR1LmL3vFI>0.0</mO9gdYnZSuJR1LmL3vFI>
+                  </Szzuzda1Wy8znaA6m5P>
+                </mO9gdYnZSuJR1LmL3vFI>
+              </Szzuzda1Wy8znaA6m5P>
+            </YYqi7YMkywwjRFe5Kim>
+            <mO9gdYnZSuJR1LmL3vFI>P{#Torre_Controle=0}</mO9gdYnZSuJR1LmL3vFI>
+            <FDXD43pkpmKenzTqtw4q>0.042843728287828196</FDXD43pkpmKenzTqtw4q>
             <ZhtdCmZro6yfqW1YjvaY class="java.awt.geom.Point2D$Double">
-              <x>2.0933333333333333</x>
-              <y>0.7933333333333333</y>
+              <x>9.4</x>
+              <y>0.4</y>
             </ZhtdCmZro6yfqW1YjvaY>
+            <yWmtn6d2doiKX4QxaSdU></yWmtn6d2doiKX4QxaSdU>
+          </abcde.EUvYgVl5kneaSPSsWHDb>
+          <abcde.EUvYgVl5kneaSPSsWHDb>
+            <Szzuzda1Wy8znaA6m5P>Media_aeronaves_aguardando_pouso</Szzuzda1Wy8znaA6m5P>
+            <YYqi7YMkywwjRFe5Kim>
+              <Szzuzda1Wy8znaA6m5P>
+                <mO9gdYnZSuJR1LmL3vFI>
+                  <YYqi7YMkywwjRFe5Kim>
+                    <Szzuzda1Wy8znaA6m5P>
+                      <FDXD43pkpmKenzTqtw4q>
+                        <mO9gdYnZSuJR1LmL3vFI>
+                          <Szzuzda1Wy8znaA6m5P>
+                            <Szzuzda1Wy8znaA6m5P>
+                              <Szzuzda1Wy8znaA6m5P>Espera_pouso</Szzuzda1Wy8znaA6m5P>
+                              <YYqi7YMkywwjRFe5Kim>false</YYqi7YMkywwjRFe5Kim>
+                            </Szzuzda1Wy8znaA6m5P>
+                          </Szzuzda1Wy8znaA6m5P>
+                        </mO9gdYnZSuJR1LmL3vFI>
+                      </FDXD43pkpmKenzTqtw4q>
+                    </Szzuzda1Wy8znaA6m5P>
+                    <YYqi7YMkywwjRFe5Kim/>
+                    <mO9gdYnZSuJR1LmL3vFI>0.0</mO9gdYnZSuJR1LmL3vFI>
+                  </YYqi7YMkywwjRFe5Kim>
+                </mO9gdYnZSuJR1LmL3vFI>
+              </Szzuzda1Wy8znaA6m5P>
+            </YYqi7YMkywwjRFe5Kim>
+            <mO9gdYnZSuJR1LmL3vFI>E{#Espera_pouso}</mO9gdYnZSuJR1LmL3vFI>
+            <FDXD43pkpmKenzTqtw4q>0.06265029343347314</FDXD43pkpmKenzTqtw4q>
+            <ZhtdCmZro6yfqW1YjvaY class="java.awt.geom.Point2D$Double">
+              <x>8.88</x>
+              <y>1.12</y>
+            </ZhtdCmZro6yfqW1YjvaY>
+            <yWmtn6d2doiKX4QxaSdU></yWmtn6d2doiKX4QxaSdU>
+          </abcde.EUvYgVl5kneaSPSsWHDb>
+          <abcde.EUvYgVl5kneaSPSsWHDb>
+            <Szzuzda1Wy8znaA6m5P>Media_aeronaves_aguardando_decolagem</Szzuzda1Wy8znaA6m5P>
+            <YYqi7YMkywwjRFe5Kim>
+              <Szzuzda1Wy8znaA6m5P>
+                <mO9gdYnZSuJR1LmL3vFI>
+                  <YYqi7YMkywwjRFe5Kim>
+                    <Szzuzda1Wy8znaA6m5P>
+                      <FDXD43pkpmKenzTqtw4q>
+                        <mO9gdYnZSuJR1LmL3vFI>
+                          <Szzuzda1Wy8znaA6m5P>
+                            <Szzuzda1Wy8znaA6m5P>
+                              <Szzuzda1Wy8znaA6m5P>Espera_decolagem</Szzuzda1Wy8znaA6m5P>
+                              <YYqi7YMkywwjRFe5Kim>false</YYqi7YMkywwjRFe5Kim>
+                            </Szzuzda1Wy8znaA6m5P>
+                          </Szzuzda1Wy8znaA6m5P>
+                        </mO9gdYnZSuJR1LmL3vFI>
+                      </FDXD43pkpmKenzTqtw4q>
+                    </Szzuzda1Wy8znaA6m5P>
+                    <YYqi7YMkywwjRFe5Kim/>
+                    <mO9gdYnZSuJR1LmL3vFI>0.0</mO9gdYnZSuJR1LmL3vFI>
+                  </YYqi7YMkywwjRFe5Kim>
+                </mO9gdYnZSuJR1LmL3vFI>
+              </Szzuzda1Wy8znaA6m5P>
+            </YYqi7YMkywwjRFe5Kim>
+            <mO9gdYnZSuJR1LmL3vFI>E{#Espera_decolagem}</mO9gdYnZSuJR1LmL3vFI>
+            <FDXD43pkpmKenzTqtw4q>0.17666371257871677</FDXD43pkpmKenzTqtw4q>
+            <ZhtdCmZro6yfqW1YjvaY class="java.awt.geom.Point2D$Double">
+              <x>9.24</x>
+              <y>1.28</y>
+            </ZhtdCmZro6yfqW1YjvaY>
+            <yWmtn6d2doiKX4QxaSdU></yWmtn6d2doiKX4QxaSdU>
+          </abcde.EUvYgVl5kneaSPSsWHDb>
+          <abcde.EUvYgVl5kneaSPSsWHDb>
+            <Szzuzda1Wy8znaA6m5P>Media_aeronaves_desembarque</Szzuzda1Wy8znaA6m5P>
+            <YYqi7YMkywwjRFe5Kim>
+              <Szzuzda1Wy8znaA6m5P>
+                <mO9gdYnZSuJR1LmL3vFI>
+                  <YYqi7YMkywwjRFe5Kim>
+                    <Szzuzda1Wy8znaA6m5P>
+                      <FDXD43pkpmKenzTqtw4q>
+                        <mO9gdYnZSuJR1LmL3vFI>
+                          <Szzuzda1Wy8znaA6m5P>
+                            <Szzuzda1Wy8znaA6m5P>
+                              <Szzuzda1Wy8znaA6m5P>Taxi_desembarque</Szzuzda1Wy8znaA6m5P>
+                              <YYqi7YMkywwjRFe5Kim>false</YYqi7YMkywwjRFe5Kim>
+                            </Szzuzda1Wy8znaA6m5P>
+                          </Szzuzda1Wy8znaA6m5P>
+                        </mO9gdYnZSuJR1LmL3vFI>
+                      </FDXD43pkpmKenzTqtw4q>
+                    </Szzuzda1Wy8znaA6m5P>
+                    <YYqi7YMkywwjRFe5Kim/>
+                    <mO9gdYnZSuJR1LmL3vFI>0.0</mO9gdYnZSuJR1LmL3vFI>
+                  </YYqi7YMkywwjRFe5Kim>
+                </mO9gdYnZSuJR1LmL3vFI>
+              </Szzuzda1Wy8znaA6m5P>
+            </YYqi7YMkywwjRFe5Kim>
+            <mO9gdYnZSuJR1LmL3vFI>E{#Taxi_desembarque}</mO9gdYnZSuJR1LmL3vFI>
+            <FDXD43pkpmKenzTqtw4q>1.0679311972201437</FDXD43pkpmKenzTqtw4q>
+            <ZhtdCmZro6yfqW1YjvaY class="java.awt.geom.Point2D$Double">
+              <x>9.32</x>
+              <y>1.44</y>
+            </ZhtdCmZro6yfqW1YjvaY>
+            <yWmtn6d2doiKX4QxaSdU></yWmtn6d2doiKX4QxaSdU>
+          </abcde.EUvYgVl5kneaSPSsWHDb>
+          <abcde.EUvYgVl5kneaSPSsWHDb>
+            <Szzuzda1Wy8znaA6m5P>DP_pouso</Szzuzda1Wy8znaA6m5P>
+            <YYqi7YMkywwjRFe5Kim>
+              <Szzuzda1Wy8znaA6m5P>
+                <mO9gdYnZSuJR1LmL3vFI>
+                  <Szzuzda1Wy8znaA6m5P>
+                    <Szzuzda1Wy8znaA6m5P>
+                      <Szzuzda1Wy8znaA6m5P>
+                        <Szzuzda1Wy8znaA6m5P>
+                          <FDXD43pkpmKenzTqtw4q>
+                            <mO9gdYnZSuJR1LmL3vFI>
+                              <Szzuzda1Wy8znaA6m5P>
+                                <Szzuzda1Wy8znaA6m5P>
+                                  <Szzuzda1Wy8znaA6m5P>Torre_Controle</Szzuzda1Wy8znaA6m5P>
+                                  <YYqi7YMkywwjRFe5Kim>false</YYqi7YMkywwjRFe5Kim>
+                                </Szzuzda1Wy8znaA6m5P>
+                              </Szzuzda1Wy8znaA6m5P>
+                            </mO9gdYnZSuJR1LmL3vFI>
+                          </FDXD43pkpmKenzTqtw4q>
+                        </Szzuzda1Wy8znaA6m5P>
+                        <YYqi7YMkywwjRFe5Kim>
+                          <YYqi7YMkywwjRFe5Kim>=</YYqi7YMkywwjRFe5Kim>
+                        </YYqi7YMkywwjRFe5Kim>
+                        <mO9gdYnZSuJR1LmL3vFI>
+                          <FDXD43pkpmKenzTqtw4q>
+                            <Szzuzda1Wy8znaA6m5P>
+                              <Szzuzda1Wy8znaA6m5P>0</Szzuzda1Wy8znaA6m5P>
+                            </Szzuzda1Wy8znaA6m5P>
+                          </FDXD43pkpmKenzTqtw4q>
+                        </mO9gdYnZSuJR1LmL3vFI>
+                      </Szzuzda1Wy8znaA6m5P>
+                    </Szzuzda1Wy8znaA6m5P>
+                    <YYqi7YMkywwjRFe5Kim>0.0</YYqi7YMkywwjRFe5Kim>
+                    <mO9gdYnZSuJR1LmL3vFI>0.0</mO9gdYnZSuJR1LmL3vFI>
+                  </Szzuzda1Wy8znaA6m5P>
+                </mO9gdYnZSuJR1LmL3vFI>
+              </Szzuzda1Wy8znaA6m5P>
+            </YYqi7YMkywwjRFe5Kim>
+            <mO9gdYnZSuJR1LmL3vFI>P{#Torre_Controle=0}</mO9gdYnZSuJR1LmL3vFI>
+            <FDXD43pkpmKenzTqtw4q>0.042843728287828196</FDXD43pkpmKenzTqtw4q>
+            <ZhtdCmZro6yfqW1YjvaY class="java.awt.geom.Point2D$Double">
+              <x>9.32</x>
+              <y>1.96</y>
+            </ZhtdCmZro6yfqW1YjvaY>
+            <yWmtn6d2doiKX4QxaSdU></yWmtn6d2doiKX4QxaSdU>
+          </abcde.EUvYgVl5kneaSPSsWHDb>
+          <abcde.EUvYgVl5kneaSPSsWHDb>
+            <Szzuzda1Wy8znaA6m5P>TP_pouso</Szzuzda1Wy8znaA6m5P>
+            <YYqi7YMkywwjRFe5Kim>
+              <mO9gdYnZSuJR1LmL3vFI>
+                <mO9gdYnZSuJR1LmL3vFI>
+                  <Szzuzda1Wy8znaA6m5P>
+                    <Szzuzda1Wy8znaA6m5P>
+                      <Szzuzda1Wy8znaA6m5P>1</Szzuzda1Wy8znaA6m5P>
+                    </Szzuzda1Wy8znaA6m5P>
+                  </Szzuzda1Wy8znaA6m5P>
+                </mO9gdYnZSuJR1LmL3vFI>
+                <FDXD43pkpmKenzTqtw4q>
+                  <YYqi7YMkywwjRFe5Kim>-</YYqi7YMkywwjRFe5Kim>
+                </FDXD43pkpmKenzTqtw4q>
+                <ZhtdCmZro6yfqW1YjvaY>
+                  <Szzuzda1Wy8znaA6m5P>
+                    <mO9gdYnZSuJR1LmL3vFI>
+                      <Szzuzda1Wy8znaA6m5P>
+                        <Szzuzda1Wy8znaA6m5P>
+                          <Szzuzda1Wy8znaA6m5P>
+                            <Szzuzda1Wy8znaA6m5P>
+                              <FDXD43pkpmKenzTqtw4q>
+                                <mO9gdYnZSuJR1LmL3vFI>
+                                  <Szzuzda1Wy8znaA6m5P>
+                                    <Szzuzda1Wy8znaA6m5P>
+                                      <Szzuzda1Wy8znaA6m5P>Torre_Controle</Szzuzda1Wy8znaA6m5P>
+                                      <YYqi7YMkywwjRFe5Kim>false</YYqi7YMkywwjRFe5Kim>
+                                    </Szzuzda1Wy8znaA6m5P>
+                                  </Szzuzda1Wy8znaA6m5P>
+                                </mO9gdYnZSuJR1LmL3vFI>
+                              </FDXD43pkpmKenzTqtw4q>
+                            </Szzuzda1Wy8znaA6m5P>
+                            <YYqi7YMkywwjRFe5Kim>
+                              <YYqi7YMkywwjRFe5Kim>=</YYqi7YMkywwjRFe5Kim>
+                            </YYqi7YMkywwjRFe5Kim>
+                            <mO9gdYnZSuJR1LmL3vFI>
+                              <FDXD43pkpmKenzTqtw4q>
+                                <Szzuzda1Wy8znaA6m5P>
+                                  <Szzuzda1Wy8znaA6m5P>0</Szzuzda1Wy8znaA6m5P>
+                                </Szzuzda1Wy8znaA6m5P>
+                              </FDXD43pkpmKenzTqtw4q>
+                            </mO9gdYnZSuJR1LmL3vFI>
+                          </Szzuzda1Wy8znaA6m5P>
+                        </Szzuzda1Wy8znaA6m5P>
+                        <YYqi7YMkywwjRFe5Kim>0.0</YYqi7YMkywwjRFe5Kim>
+                        <mO9gdYnZSuJR1LmL3vFI>0.0</mO9gdYnZSuJR1LmL3vFI>
+                      </Szzuzda1Wy8znaA6m5P>
+                    </mO9gdYnZSuJR1LmL3vFI>
+                  </Szzuzda1Wy8znaA6m5P>
+                </ZhtdCmZro6yfqW1YjvaY>
+              </mO9gdYnZSuJR1LmL3vFI>
+              <FDXD43pkpmKenzTqtw4q>
+                <YYqi7YMkywwjRFe5Kim>*</YYqi7YMkywwjRFe5Kim>
+              </FDXD43pkpmKenzTqtw4q>
+              <ZhtdCmZro6yfqW1YjvaY>
+                <mO9gdYnZSuJR1LmL3vFI>
+                  <Szzuzda1Wy8znaA6m5P>
+                    <Szzuzda1Wy8znaA6m5P>
+                      <Szzuzda1Wy8znaA6m5P>1</Szzuzda1Wy8znaA6m5P>
+                    </Szzuzda1Wy8znaA6m5P>
+                  </Szzuzda1Wy8znaA6m5P>
+                </mO9gdYnZSuJR1LmL3vFI>
+                <FDXD43pkpmKenzTqtw4q>
+                  <YYqi7YMkywwjRFe5Kim>/</YYqi7YMkywwjRFe5Kim>
+                </FDXD43pkpmKenzTqtw4q>
+                <ZhtdCmZro6yfqW1YjvaY>
+                  <Szzuzda1Wy8znaA6m5P>
+                    <Szzuzda1Wy8znaA6m5P>
+                      <Szzuzda1Wy8znaA6m5P>100</Szzuzda1Wy8znaA6m5P>
+                    </Szzuzda1Wy8znaA6m5P>
+                  </Szzuzda1Wy8znaA6m5P>
+                </ZhtdCmZro6yfqW1YjvaY>
+              </ZhtdCmZro6yfqW1YjvaY>
+            </YYqi7YMkywwjRFe5Kim>
+            <mO9gdYnZSuJR1LmL3vFI>(1-P{#Torre_Controle=0})*(1/100)</mO9gdYnZSuJR1LmL3vFI>
+            <FDXD43pkpmKenzTqtw4q>0.009571562717121706</FDXD43pkpmKenzTqtw4q>
+            <ZhtdCmZro6yfqW1YjvaY class="java.awt.geom.Point2D$Double">
+              <x>9.24</x>
+              <y>2.12</y>
+            </ZhtdCmZro6yfqW1YjvaY>
+            <yWmtn6d2doiKX4QxaSdU></yWmtn6d2doiKX4QxaSdU>
+          </abcde.EUvYgVl5kneaSPSsWHDb>
+          <abcde.EUvYgVl5kneaSPSsWHDb>
+            <Szzuzda1Wy8znaA6m5P>MRT_pouso</Szzuzda1Wy8znaA6m5P>
+            <YYqi7YMkywwjRFe5Kim>
+              <mO9gdYnZSuJR1LmL3vFI>
+                <Szzuzda1Wy8znaA6m5P>
+                  <mO9gdYnZSuJR1LmL3vFI>
+                    <YYqi7YMkywwjRFe5Kim>
+                      <Szzuzda1Wy8znaA6m5P>
+                        <FDXD43pkpmKenzTqtw4q>
+                          <mO9gdYnZSuJR1LmL3vFI>
+                            <Szzuzda1Wy8znaA6m5P>
+                              <Szzuzda1Wy8znaA6m5P>
+                                <Szzuzda1Wy8znaA6m5P>Espera_pouso</Szzuzda1Wy8znaA6m5P>
+                                <YYqi7YMkywwjRFe5Kim>false</YYqi7YMkywwjRFe5Kim>
+                              </Szzuzda1Wy8znaA6m5P>
+                            </Szzuzda1Wy8znaA6m5P>
+                          </mO9gdYnZSuJR1LmL3vFI>
+                        </FDXD43pkpmKenzTqtw4q>
+                      </Szzuzda1Wy8znaA6m5P>
+                      <YYqi7YMkywwjRFe5Kim/>
+                      <mO9gdYnZSuJR1LmL3vFI>0.0</mO9gdYnZSuJR1LmL3vFI>
+                    </YYqi7YMkywwjRFe5Kim>
+                  </mO9gdYnZSuJR1LmL3vFI>
+                </Szzuzda1Wy8znaA6m5P>
+              </mO9gdYnZSuJR1LmL3vFI>
+              <FDXD43pkpmKenzTqtw4q>
+                <YYqi7YMkywwjRFe5Kim>/</YYqi7YMkywwjRFe5Kim>
+              </FDXD43pkpmKenzTqtw4q>
+              <ZhtdCmZro6yfqW1YjvaY>
+                <mO9gdYnZSuJR1LmL3vFI>
+                  <mO9gdYnZSuJR1LmL3vFI>
+                    <Szzuzda1Wy8znaA6m5P>
+                      <Szzuzda1Wy8znaA6m5P>
+                        <Szzuzda1Wy8znaA6m5P>1</Szzuzda1Wy8znaA6m5P>
+                      </Szzuzda1Wy8znaA6m5P>
+                    </Szzuzda1Wy8znaA6m5P>
+                  </mO9gdYnZSuJR1LmL3vFI>
+                  <FDXD43pkpmKenzTqtw4q>
+                    <YYqi7YMkywwjRFe5Kim>-</YYqi7YMkywwjRFe5Kim>
+                  </FDXD43pkpmKenzTqtw4q>
+                  <ZhtdCmZro6yfqW1YjvaY>
+                    <Szzuzda1Wy8znaA6m5P>
+                      <mO9gdYnZSuJR1LmL3vFI>
+                        <Szzuzda1Wy8znaA6m5P>
+                          <Szzuzda1Wy8znaA6m5P>
+                            <Szzuzda1Wy8znaA6m5P>
+                              <Szzuzda1Wy8znaA6m5P>
+                                <FDXD43pkpmKenzTqtw4q>
+                                  <mO9gdYnZSuJR1LmL3vFI>
+                                    <Szzuzda1Wy8znaA6m5P>
+                                      <Szzuzda1Wy8znaA6m5P>
+                                        <Szzuzda1Wy8znaA6m5P>Torre_Controle</Szzuzda1Wy8znaA6m5P>
+                                        <YYqi7YMkywwjRFe5Kim>false</YYqi7YMkywwjRFe5Kim>
+                                      </Szzuzda1Wy8znaA6m5P>
+                                    </Szzuzda1Wy8znaA6m5P>
+                                  </mO9gdYnZSuJR1LmL3vFI>
+                                </FDXD43pkpmKenzTqtw4q>
+                              </Szzuzda1Wy8znaA6m5P>
+                              <YYqi7YMkywwjRFe5Kim>
+                                <YYqi7YMkywwjRFe5Kim>=</YYqi7YMkywwjRFe5Kim>
+                              </YYqi7YMkywwjRFe5Kim>
+                              <mO9gdYnZSuJR1LmL3vFI>
+                                <FDXD43pkpmKenzTqtw4q>
+                                  <Szzuzda1Wy8znaA6m5P>
+                                    <Szzuzda1Wy8znaA6m5P>0</Szzuzda1Wy8znaA6m5P>
+                                  </Szzuzda1Wy8znaA6m5P>
+                                </FDXD43pkpmKenzTqtw4q>
+                              </mO9gdYnZSuJR1LmL3vFI>
+                            </Szzuzda1Wy8znaA6m5P>
+                          </Szzuzda1Wy8znaA6m5P>
+                          <YYqi7YMkywwjRFe5Kim>0.0</YYqi7YMkywwjRFe5Kim>
+                          <mO9gdYnZSuJR1LmL3vFI>0.0</mO9gdYnZSuJR1LmL3vFI>
+                        </Szzuzda1Wy8znaA6m5P>
+                      </mO9gdYnZSuJR1LmL3vFI>
+                    </Szzuzda1Wy8znaA6m5P>
+                  </ZhtdCmZro6yfqW1YjvaY>
+                </mO9gdYnZSuJR1LmL3vFI>
+                <FDXD43pkpmKenzTqtw4q>
+                  <YYqi7YMkywwjRFe5Kim>*</YYqi7YMkywwjRFe5Kim>
+                </FDXD43pkpmKenzTqtw4q>
+                <ZhtdCmZro6yfqW1YjvaY>
+                  <mO9gdYnZSuJR1LmL3vFI>
+                    <Szzuzda1Wy8znaA6m5P>
+                      <Szzuzda1Wy8znaA6m5P>
+                        <Szzuzda1Wy8znaA6m5P>1</Szzuzda1Wy8znaA6m5P>
+                      </Szzuzda1Wy8znaA6m5P>
+                    </Szzuzda1Wy8znaA6m5P>
+                  </mO9gdYnZSuJR1LmL3vFI>
+                  <FDXD43pkpmKenzTqtw4q>
+                    <YYqi7YMkywwjRFe5Kim>/</YYqi7YMkywwjRFe5Kim>
+                  </FDXD43pkpmKenzTqtw4q>
+                  <ZhtdCmZro6yfqW1YjvaY>
+                    <Szzuzda1Wy8znaA6m5P>
+                      <Szzuzda1Wy8znaA6m5P>
+                        <Szzuzda1Wy8znaA6m5P>100</Szzuzda1Wy8znaA6m5P>
+                      </Szzuzda1Wy8znaA6m5P>
+                    </Szzuzda1Wy8znaA6m5P>
+                  </ZhtdCmZro6yfqW1YjvaY>
+                </ZhtdCmZro6yfqW1YjvaY>
+              </ZhtdCmZro6yfqW1YjvaY>
+            </YYqi7YMkywwjRFe5Kim>
+            <mO9gdYnZSuJR1LmL3vFI>E{#Espera_pouso}/((1-P{#Torre_Controle=0})*(1/100))</mO9gdYnZSuJR1LmL3vFI>
+            <FDXD43pkpmKenzTqtw4q>6.545912617249771</FDXD43pkpmKenzTqtw4q>
+            <ZhtdCmZro6yfqW1YjvaY class="java.awt.geom.Point2D$Double">
+              <x>9.24</x>
+              <y>2.28</y>
+            </ZhtdCmZro6yfqW1YjvaY>
+            <yWmtn6d2doiKX4QxaSdU></yWmtn6d2doiKX4QxaSdU>
+          </abcde.EUvYgVl5kneaSPSsWHDb>
+          <abcde.EUvYgVl5kneaSPSsWHDb>
+            <Szzuzda1Wy8znaA6m5P>DP_decolagem</Szzuzda1Wy8znaA6m5P>
+            <YYqi7YMkywwjRFe5Kim>
+              <Szzuzda1Wy8znaA6m5P>
+                <mO9gdYnZSuJR1LmL3vFI>
+                  <Szzuzda1Wy8znaA6m5P>
+                    <Szzuzda1Wy8znaA6m5P>
+                      <mO9gdYnZSuJR1LmL3vFI>
+                        <Szzuzda1Wy8znaA6m5P>
+                          <Szzuzda1Wy8znaA6m5P>
+                            <FDXD43pkpmKenzTqtw4q>
+                              <mO9gdYnZSuJR1LmL3vFI>
+                                <Szzuzda1Wy8znaA6m5P>
+                                  <Szzuzda1Wy8znaA6m5P>
+                                    <Szzuzda1Wy8znaA6m5P>Torre_Controle</Szzuzda1Wy8znaA6m5P>
+                                    <YYqi7YMkywwjRFe5Kim>false</YYqi7YMkywwjRFe5Kim>
+                                  </Szzuzda1Wy8znaA6m5P>
+                                </Szzuzda1Wy8znaA6m5P>
+                              </mO9gdYnZSuJR1LmL3vFI>
+                            </FDXD43pkpmKenzTqtw4q>
+                          </Szzuzda1Wy8znaA6m5P>
+                          <YYqi7YMkywwjRFe5Kim>
+                            <YYqi7YMkywwjRFe5Kim>=</YYqi7YMkywwjRFe5Kim>
+                          </YYqi7YMkywwjRFe5Kim>
+                          <mO9gdYnZSuJR1LmL3vFI>
+                            <FDXD43pkpmKenzTqtw4q>
+                              <Szzuzda1Wy8znaA6m5P>
+                                <Szzuzda1Wy8znaA6m5P>0</Szzuzda1Wy8znaA6m5P>
+                              </Szzuzda1Wy8znaA6m5P>
+                            </FDXD43pkpmKenzTqtw4q>
+                          </mO9gdYnZSuJR1LmL3vFI>
+                        </Szzuzda1Wy8znaA6m5P>
+                      </mO9gdYnZSuJR1LmL3vFI>
+                      <FDXD43pkpmKenzTqtw4q>
+                        <YYqi7YMkywwjRFe5Kim>OR</YYqi7YMkywwjRFe5Kim>
+                      </FDXD43pkpmKenzTqtw4q>
+                      <ZhtdCmZro6yfqW1YjvaY>
+                        <Szzuzda1Wy8znaA6m5P>
+                          <Szzuzda1Wy8znaA6m5P>
+                            <FDXD43pkpmKenzTqtw4q>
+                              <mO9gdYnZSuJR1LmL3vFI>
+                                <Szzuzda1Wy8znaA6m5P>
+                                  <Szzuzda1Wy8znaA6m5P>
+                                    <Szzuzda1Wy8znaA6m5P>Espera_pouso</Szzuzda1Wy8znaA6m5P>
+                                    <YYqi7YMkywwjRFe5Kim>false</YYqi7YMkywwjRFe5Kim>
+                                  </Szzuzda1Wy8znaA6m5P>
+                                </Szzuzda1Wy8znaA6m5P>
+                              </mO9gdYnZSuJR1LmL3vFI>
+                            </FDXD43pkpmKenzTqtw4q>
+                          </Szzuzda1Wy8znaA6m5P>
+                          <YYqi7YMkywwjRFe5Kim>
+                            <YYqi7YMkywwjRFe5Kim>&gt;</YYqi7YMkywwjRFe5Kim>
+                          </YYqi7YMkywwjRFe5Kim>
+                          <mO9gdYnZSuJR1LmL3vFI>
+                            <FDXD43pkpmKenzTqtw4q>
+                              <Szzuzda1Wy8znaA6m5P>
+                                <Szzuzda1Wy8znaA6m5P>0</Szzuzda1Wy8znaA6m5P>
+                              </Szzuzda1Wy8znaA6m5P>
+                            </FDXD43pkpmKenzTqtw4q>
+                          </mO9gdYnZSuJR1LmL3vFI>
+                        </Szzuzda1Wy8znaA6m5P>
+                      </ZhtdCmZro6yfqW1YjvaY>
+                    </Szzuzda1Wy8znaA6m5P>
+                    <YYqi7YMkywwjRFe5Kim>0.0</YYqi7YMkywwjRFe5Kim>
+                    <mO9gdYnZSuJR1LmL3vFI>0.0</mO9gdYnZSuJR1LmL3vFI>
+                  </Szzuzda1Wy8znaA6m5P>
+                </mO9gdYnZSuJR1LmL3vFI>
+              </Szzuzda1Wy8znaA6m5P>
+            </YYqi7YMkywwjRFe5Kim>
+            <mO9gdYnZSuJR1LmL3vFI>P{(#Torre_Controle=0)OR(#Espera_pouso&gt;0)}</mO9gdYnZSuJR1LmL3vFI>
+            <FDXD43pkpmKenzTqtw4q>0.09544087788009689</FDXD43pkpmKenzTqtw4q>
+            <ZhtdCmZro6yfqW1YjvaY class="java.awt.geom.Point2D$Double">
+              <x>9.2</x>
+              <y>2.88</y>
+            </ZhtdCmZro6yfqW1YjvaY>
+            <yWmtn6d2doiKX4QxaSdU></yWmtn6d2doiKX4QxaSdU>
+          </abcde.EUvYgVl5kneaSPSsWHDb>
+          <abcde.EUvYgVl5kneaSPSsWHDb>
+            <Szzuzda1Wy8znaA6m5P>TP_decolagem</Szzuzda1Wy8znaA6m5P>
+            <YYqi7YMkywwjRFe5Kim>
+              <mO9gdYnZSuJR1LmL3vFI>
+                <mO9gdYnZSuJR1LmL3vFI>
+                  <Szzuzda1Wy8znaA6m5P>
+                    <Szzuzda1Wy8znaA6m5P>
+                      <Szzuzda1Wy8znaA6m5P>1</Szzuzda1Wy8znaA6m5P>
+                    </Szzuzda1Wy8znaA6m5P>
+                  </Szzuzda1Wy8znaA6m5P>
+                </mO9gdYnZSuJR1LmL3vFI>
+                <FDXD43pkpmKenzTqtw4q>
+                  <YYqi7YMkywwjRFe5Kim>-</YYqi7YMkywwjRFe5Kim>
+                </FDXD43pkpmKenzTqtw4q>
+                <ZhtdCmZro6yfqW1YjvaY>
+                  <Szzuzda1Wy8znaA6m5P>
+                    <mO9gdYnZSuJR1LmL3vFI>
+                      <Szzuzda1Wy8znaA6m5P>
+                        <Szzuzda1Wy8znaA6m5P>
+                          <mO9gdYnZSuJR1LmL3vFI>
+                            <Szzuzda1Wy8znaA6m5P>
+                              <Szzuzda1Wy8znaA6m5P>
+                                <FDXD43pkpmKenzTqtw4q>
+                                  <mO9gdYnZSuJR1LmL3vFI>
+                                    <Szzuzda1Wy8znaA6m5P>
+                                      <Szzuzda1Wy8znaA6m5P>
+                                        <Szzuzda1Wy8znaA6m5P>Torre_Controle</Szzuzda1Wy8znaA6m5P>
+                                        <YYqi7YMkywwjRFe5Kim>false</YYqi7YMkywwjRFe5Kim>
+                                      </Szzuzda1Wy8znaA6m5P>
+                                    </Szzuzda1Wy8znaA6m5P>
+                                  </mO9gdYnZSuJR1LmL3vFI>
+                                </FDXD43pkpmKenzTqtw4q>
+                              </Szzuzda1Wy8znaA6m5P>
+                              <YYqi7YMkywwjRFe5Kim>
+                                <YYqi7YMkywwjRFe5Kim>=</YYqi7YMkywwjRFe5Kim>
+                              </YYqi7YMkywwjRFe5Kim>
+                              <mO9gdYnZSuJR1LmL3vFI>
+                                <FDXD43pkpmKenzTqtw4q>
+                                  <Szzuzda1Wy8znaA6m5P>
+                                    <Szzuzda1Wy8znaA6m5P>0</Szzuzda1Wy8znaA6m5P>
+                                  </Szzuzda1Wy8znaA6m5P>
+                                </FDXD43pkpmKenzTqtw4q>
+                              </mO9gdYnZSuJR1LmL3vFI>
+                            </Szzuzda1Wy8znaA6m5P>
+                          </mO9gdYnZSuJR1LmL3vFI>
+                          <FDXD43pkpmKenzTqtw4q>
+                            <YYqi7YMkywwjRFe5Kim>OR</YYqi7YMkywwjRFe5Kim>
+                          </FDXD43pkpmKenzTqtw4q>
+                          <ZhtdCmZro6yfqW1YjvaY>
+                            <Szzuzda1Wy8znaA6m5P>
+                              <Szzuzda1Wy8znaA6m5P>
+                                <FDXD43pkpmKenzTqtw4q>
+                                  <mO9gdYnZSuJR1LmL3vFI>
+                                    <Szzuzda1Wy8znaA6m5P>
+                                      <Szzuzda1Wy8znaA6m5P>
+                                        <Szzuzda1Wy8znaA6m5P>Espera_pouso</Szzuzda1Wy8znaA6m5P>
+                                        <YYqi7YMkywwjRFe5Kim>false</YYqi7YMkywwjRFe5Kim>
+                                      </Szzuzda1Wy8znaA6m5P>
+                                    </Szzuzda1Wy8znaA6m5P>
+                                  </mO9gdYnZSuJR1LmL3vFI>
+                                </FDXD43pkpmKenzTqtw4q>
+                              </Szzuzda1Wy8znaA6m5P>
+                              <YYqi7YMkywwjRFe5Kim>
+                                <YYqi7YMkywwjRFe5Kim>&gt;</YYqi7YMkywwjRFe5Kim>
+                              </YYqi7YMkywwjRFe5Kim>
+                              <mO9gdYnZSuJR1LmL3vFI>
+                                <FDXD43pkpmKenzTqtw4q>
+                                  <Szzuzda1Wy8znaA6m5P>
+                                    <Szzuzda1Wy8znaA6m5P>0</Szzuzda1Wy8znaA6m5P>
+                                  </Szzuzda1Wy8znaA6m5P>
+                                </FDXD43pkpmKenzTqtw4q>
+                              </mO9gdYnZSuJR1LmL3vFI>
+                            </Szzuzda1Wy8znaA6m5P>
+                          </ZhtdCmZro6yfqW1YjvaY>
+                        </Szzuzda1Wy8znaA6m5P>
+                        <YYqi7YMkywwjRFe5Kim>0.0</YYqi7YMkywwjRFe5Kim>
+                        <mO9gdYnZSuJR1LmL3vFI>0.0</mO9gdYnZSuJR1LmL3vFI>
+                      </Szzuzda1Wy8znaA6m5P>
+                    </mO9gdYnZSuJR1LmL3vFI>
+                  </Szzuzda1Wy8znaA6m5P>
+                </ZhtdCmZro6yfqW1YjvaY>
+              </mO9gdYnZSuJR1LmL3vFI>
+              <FDXD43pkpmKenzTqtw4q>
+                <YYqi7YMkywwjRFe5Kim>*</YYqi7YMkywwjRFe5Kim>
+              </FDXD43pkpmKenzTqtw4q>
+              <ZhtdCmZro6yfqW1YjvaY>
+                <mO9gdYnZSuJR1LmL3vFI>
+                  <Szzuzda1Wy8znaA6m5P>
+                    <Szzuzda1Wy8znaA6m5P>
+                      <Szzuzda1Wy8znaA6m5P>1</Szzuzda1Wy8znaA6m5P>
+                    </Szzuzda1Wy8znaA6m5P>
+                  </Szzuzda1Wy8znaA6m5P>
+                </mO9gdYnZSuJR1LmL3vFI>
+                <FDXD43pkpmKenzTqtw4q>
+                  <YYqi7YMkywwjRFe5Kim>/</YYqi7YMkywwjRFe5Kim>
+                </FDXD43pkpmKenzTqtw4q>
+                <ZhtdCmZro6yfqW1YjvaY>
+                  <Szzuzda1Wy8znaA6m5P>
+                    <Szzuzda1Wy8znaA6m5P>
+                      <Szzuzda1Wy8znaA6m5P>300</Szzuzda1Wy8znaA6m5P>
+                    </Szzuzda1Wy8znaA6m5P>
+                  </Szzuzda1Wy8znaA6m5P>
+                </ZhtdCmZro6yfqW1YjvaY>
+              </ZhtdCmZro6yfqW1YjvaY>
+            </YYqi7YMkywwjRFe5Kim>
+            <mO9gdYnZSuJR1LmL3vFI>(1-(P{(#Torre_Controle=0)OR(#Espera_pouso&gt;0)}))*(1/300)</mO9gdYnZSuJR1LmL3vFI>
+            <FDXD43pkpmKenzTqtw4q>0.0030151970737330117</FDXD43pkpmKenzTqtw4q>
+            <ZhtdCmZro6yfqW1YjvaY class="java.awt.geom.Point2D$Double">
+              <x>9.16</x>
+              <y>3.04</y>
+            </ZhtdCmZro6yfqW1YjvaY>
+            <yWmtn6d2doiKX4QxaSdU></yWmtn6d2doiKX4QxaSdU>
+          </abcde.EUvYgVl5kneaSPSsWHDb>
+          <abcde.EUvYgVl5kneaSPSsWHDb>
+            <Szzuzda1Wy8znaA6m5P>MRT_decolagem</Szzuzda1Wy8znaA6m5P>
+            <YYqi7YMkywwjRFe5Kim>
+              <mO9gdYnZSuJR1LmL3vFI>
+                <Szzuzda1Wy8znaA6m5P>
+                  <mO9gdYnZSuJR1LmL3vFI>
+                    <YYqi7YMkywwjRFe5Kim>
+                      <Szzuzda1Wy8znaA6m5P>
+                        <FDXD43pkpmKenzTqtw4q>
+                          <mO9gdYnZSuJR1LmL3vFI>
+                            <Szzuzda1Wy8znaA6m5P>
+                              <Szzuzda1Wy8znaA6m5P>
+                                <Szzuzda1Wy8znaA6m5P>Espera_decolagem</Szzuzda1Wy8znaA6m5P>
+                                <YYqi7YMkywwjRFe5Kim>false</YYqi7YMkywwjRFe5Kim>
+                              </Szzuzda1Wy8znaA6m5P>
+                            </Szzuzda1Wy8znaA6m5P>
+                          </mO9gdYnZSuJR1LmL3vFI>
+                        </FDXD43pkpmKenzTqtw4q>
+                      </Szzuzda1Wy8znaA6m5P>
+                      <YYqi7YMkywwjRFe5Kim/>
+                      <mO9gdYnZSuJR1LmL3vFI>0.0</mO9gdYnZSuJR1LmL3vFI>
+                    </YYqi7YMkywwjRFe5Kim>
+                  </mO9gdYnZSuJR1LmL3vFI>
+                </Szzuzda1Wy8znaA6m5P>
+              </mO9gdYnZSuJR1LmL3vFI>
+              <FDXD43pkpmKenzTqtw4q>
+                <YYqi7YMkywwjRFe5Kim>/</YYqi7YMkywwjRFe5Kim>
+              </FDXD43pkpmKenzTqtw4q>
+              <ZhtdCmZro6yfqW1YjvaY>
+                <mO9gdYnZSuJR1LmL3vFI>
+                  <mO9gdYnZSuJR1LmL3vFI>
+                    <Szzuzda1Wy8znaA6m5P>
+                      <Szzuzda1Wy8znaA6m5P>
+                        <Szzuzda1Wy8znaA6m5P>1</Szzuzda1Wy8znaA6m5P>
+                      </Szzuzda1Wy8znaA6m5P>
+                    </Szzuzda1Wy8znaA6m5P>
+                  </mO9gdYnZSuJR1LmL3vFI>
+                  <FDXD43pkpmKenzTqtw4q>
+                    <YYqi7YMkywwjRFe5Kim>-</YYqi7YMkywwjRFe5Kim>
+                  </FDXD43pkpmKenzTqtw4q>
+                  <ZhtdCmZro6yfqW1YjvaY>
+                    <Szzuzda1Wy8znaA6m5P>
+                      <mO9gdYnZSuJR1LmL3vFI>
+                        <Szzuzda1Wy8znaA6m5P>
+                          <Szzuzda1Wy8znaA6m5P>
+                            <mO9gdYnZSuJR1LmL3vFI>
+                              <Szzuzda1Wy8znaA6m5P>
+                                <Szzuzda1Wy8znaA6m5P>
+                                  <FDXD43pkpmKenzTqtw4q>
+                                    <mO9gdYnZSuJR1LmL3vFI>
+                                      <Szzuzda1Wy8znaA6m5P>
+                                        <Szzuzda1Wy8znaA6m5P>
+                                          <Szzuzda1Wy8znaA6m5P>Torre_Controle</Szzuzda1Wy8znaA6m5P>
+                                          <YYqi7YMkywwjRFe5Kim>false</YYqi7YMkywwjRFe5Kim>
+                                        </Szzuzda1Wy8znaA6m5P>
+                                      </Szzuzda1Wy8znaA6m5P>
+                                    </mO9gdYnZSuJR1LmL3vFI>
+                                  </FDXD43pkpmKenzTqtw4q>
+                                </Szzuzda1Wy8znaA6m5P>
+                                <YYqi7YMkywwjRFe5Kim>
+                                  <YYqi7YMkywwjRFe5Kim>=</YYqi7YMkywwjRFe5Kim>
+                                </YYqi7YMkywwjRFe5Kim>
+                                <mO9gdYnZSuJR1LmL3vFI>
+                                  <FDXD43pkpmKenzTqtw4q>
+                                    <Szzuzda1Wy8znaA6m5P>
+                                      <Szzuzda1Wy8znaA6m5P>0</Szzuzda1Wy8znaA6m5P>
+                                    </Szzuzda1Wy8znaA6m5P>
+                                  </FDXD43pkpmKenzTqtw4q>
+                                </mO9gdYnZSuJR1LmL3vFI>
+                              </Szzuzda1Wy8znaA6m5P>
+                            </mO9gdYnZSuJR1LmL3vFI>
+                            <FDXD43pkpmKenzTqtw4q>
+                              <YYqi7YMkywwjRFe5Kim>OR</YYqi7YMkywwjRFe5Kim>
+                            </FDXD43pkpmKenzTqtw4q>
+                            <ZhtdCmZro6yfqW1YjvaY>
+                              <Szzuzda1Wy8znaA6m5P>
+                                <Szzuzda1Wy8znaA6m5P>
+                                  <FDXD43pkpmKenzTqtw4q>
+                                    <mO9gdYnZSuJR1LmL3vFI>
+                                      <Szzuzda1Wy8znaA6m5P>
+                                        <Szzuzda1Wy8znaA6m5P>
+                                          <Szzuzda1Wy8znaA6m5P>Espera_pouso</Szzuzda1Wy8znaA6m5P>
+                                          <YYqi7YMkywwjRFe5Kim>false</YYqi7YMkywwjRFe5Kim>
+                                        </Szzuzda1Wy8znaA6m5P>
+                                      </Szzuzda1Wy8znaA6m5P>
+                                    </mO9gdYnZSuJR1LmL3vFI>
+                                  </FDXD43pkpmKenzTqtw4q>
+                                </Szzuzda1Wy8znaA6m5P>
+                                <YYqi7YMkywwjRFe5Kim>
+                                  <YYqi7YMkywwjRFe5Kim>&gt;</YYqi7YMkywwjRFe5Kim>
+                                </YYqi7YMkywwjRFe5Kim>
+                                <mO9gdYnZSuJR1LmL3vFI>
+                                  <FDXD43pkpmKenzTqtw4q>
+                                    <Szzuzda1Wy8znaA6m5P>
+                                      <Szzuzda1Wy8znaA6m5P>0</Szzuzda1Wy8znaA6m5P>
+                                    </Szzuzda1Wy8znaA6m5P>
+                                  </FDXD43pkpmKenzTqtw4q>
+                                </mO9gdYnZSuJR1LmL3vFI>
+                              </Szzuzda1Wy8znaA6m5P>
+                            </ZhtdCmZro6yfqW1YjvaY>
+                          </Szzuzda1Wy8znaA6m5P>
+                          <YYqi7YMkywwjRFe5Kim>0.0</YYqi7YMkywwjRFe5Kim>
+                          <mO9gdYnZSuJR1LmL3vFI>0.0</mO9gdYnZSuJR1LmL3vFI>
+                        </Szzuzda1Wy8znaA6m5P>
+                      </mO9gdYnZSuJR1LmL3vFI>
+                    </Szzuzda1Wy8znaA6m5P>
+                  </ZhtdCmZro6yfqW1YjvaY>
+                </mO9gdYnZSuJR1LmL3vFI>
+                <FDXD43pkpmKenzTqtw4q>
+                  <YYqi7YMkywwjRFe5Kim>*</YYqi7YMkywwjRFe5Kim>
+                </FDXD43pkpmKenzTqtw4q>
+                <ZhtdCmZro6yfqW1YjvaY>
+                  <mO9gdYnZSuJR1LmL3vFI>
+                    <Szzuzda1Wy8znaA6m5P>
+                      <Szzuzda1Wy8znaA6m5P>
+                        <Szzuzda1Wy8znaA6m5P>1</Szzuzda1Wy8znaA6m5P>
+                      </Szzuzda1Wy8znaA6m5P>
+                    </Szzuzda1Wy8znaA6m5P>
+                  </mO9gdYnZSuJR1LmL3vFI>
+                  <FDXD43pkpmKenzTqtw4q>
+                    <YYqi7YMkywwjRFe5Kim>/</YYqi7YMkywwjRFe5Kim>
+                  </FDXD43pkpmKenzTqtw4q>
+                  <ZhtdCmZro6yfqW1YjvaY>
+                    <Szzuzda1Wy8znaA6m5P>
+                      <Szzuzda1Wy8znaA6m5P>
+                        <Szzuzda1Wy8znaA6m5P>300</Szzuzda1Wy8znaA6m5P>
+                      </Szzuzda1Wy8znaA6m5P>
+                    </Szzuzda1Wy8znaA6m5P>
+                  </ZhtdCmZro6yfqW1YjvaY>
+                </ZhtdCmZro6yfqW1YjvaY>
+              </ZhtdCmZro6yfqW1YjvaY>
+            </YYqi7YMkywwjRFe5Kim>
+            <mO9gdYnZSuJR1LmL3vFI>E{#Espera_decolagem}/((1-(P{(#Torre_Controle=0)OR(#Espera_pouso&gt;0)}))*(1/300))</mO9gdYnZSuJR1LmL3vFI>
+            <FDXD43pkpmKenzTqtw4q>58.59563231194406</FDXD43pkpmKenzTqtw4q>
+            <ZhtdCmZro6yfqW1YjvaY class="java.awt.geom.Point2D$Double">
+              <x>9.08</x>
+              <y>3.16</y>
+            </ZhtdCmZro6yfqW1YjvaY>
+            <yWmtn6d2doiKX4QxaSdU></yWmtn6d2doiKX4QxaSdU>
+          </abcde.EUvYgVl5kneaSPSsWHDb>
+          <abcde.EUvYgVl5kneaSPSsWHDb>
+            <Szzuzda1Wy8znaA6m5P>DP_desembarque</Szzuzda1Wy8znaA6m5P>
+            <YYqi7YMkywwjRFe5Kim>
+              <Szzuzda1Wy8znaA6m5P>
+                <mO9gdYnZSuJR1LmL3vFI>
+                  <Szzuzda1Wy8znaA6m5P>
+                    <Szzuzda1Wy8znaA6m5P>
+                      <Szzuzda1Wy8znaA6m5P>
+                        <Szzuzda1Wy8znaA6m5P>
+                          <FDXD43pkpmKenzTqtw4q>
+                            <mO9gdYnZSuJR1LmL3vFI>
+                              <Szzuzda1Wy8znaA6m5P>
+                                <Szzuzda1Wy8znaA6m5P>
+                                  <Szzuzda1Wy8znaA6m5P>Desembarque</Szzuzda1Wy8znaA6m5P>
+                                  <YYqi7YMkywwjRFe5Kim>false</YYqi7YMkywwjRFe5Kim>
+                                </Szzuzda1Wy8znaA6m5P>
+                              </Szzuzda1Wy8znaA6m5P>
+                            </mO9gdYnZSuJR1LmL3vFI>
+                          </FDXD43pkpmKenzTqtw4q>
+                        </Szzuzda1Wy8znaA6m5P>
+                        <YYqi7YMkywwjRFe5Kim>
+                          <YYqi7YMkywwjRFe5Kim>&gt;</YYqi7YMkywwjRFe5Kim>
+                        </YYqi7YMkywwjRFe5Kim>
+                        <mO9gdYnZSuJR1LmL3vFI>
+                          <FDXD43pkpmKenzTqtw4q>
+                            <Szzuzda1Wy8znaA6m5P>
+                              <Szzuzda1Wy8znaA6m5P>0</Szzuzda1Wy8znaA6m5P>
+                            </Szzuzda1Wy8znaA6m5P>
+                          </FDXD43pkpmKenzTqtw4q>
+                        </mO9gdYnZSuJR1LmL3vFI>
+                      </Szzuzda1Wy8znaA6m5P>
+                    </Szzuzda1Wy8znaA6m5P>
+                    <YYqi7YMkywwjRFe5Kim>0.0</YYqi7YMkywwjRFe5Kim>
+                    <mO9gdYnZSuJR1LmL3vFI>0.0</mO9gdYnZSuJR1LmL3vFI>
+                  </Szzuzda1Wy8znaA6m5P>
+                </mO9gdYnZSuJR1LmL3vFI>
+              </Szzuzda1Wy8znaA6m5P>
+            </YYqi7YMkywwjRFe5Kim>
+            <mO9gdYnZSuJR1LmL3vFI>P{#Desembarque&gt;0}</mO9gdYnZSuJR1LmL3vFI>
+            <FDXD43pkpmKenzTqtw4q>0.49118318037274655</FDXD43pkpmKenzTqtw4q>
+            <ZhtdCmZro6yfqW1YjvaY class="java.awt.geom.Point2D$Double">
+              <x>9.36</x>
+              <y>3.96</y>
+            </ZhtdCmZro6yfqW1YjvaY>
+            <yWmtn6d2doiKX4QxaSdU></yWmtn6d2doiKX4QxaSdU>
+          </abcde.EUvYgVl5kneaSPSsWHDb>
+          <abcde.EUvYgVl5kneaSPSsWHDb>
+            <Szzuzda1Wy8znaA6m5P>TP_desembarque</Szzuzda1Wy8znaA6m5P>
+            <YYqi7YMkywwjRFe5Kim>
+              <mO9gdYnZSuJR1LmL3vFI>
+                <mO9gdYnZSuJR1LmL3vFI>
+                  <Szzuzda1Wy8znaA6m5P>
+                    <Szzuzda1Wy8znaA6m5P>
+                      <Szzuzda1Wy8znaA6m5P>1</Szzuzda1Wy8znaA6m5P>
+                    </Szzuzda1Wy8znaA6m5P>
+                  </Szzuzda1Wy8znaA6m5P>
+                </mO9gdYnZSuJR1LmL3vFI>
+                <FDXD43pkpmKenzTqtw4q>
+                  <YYqi7YMkywwjRFe5Kim>-</YYqi7YMkywwjRFe5Kim>
+                </FDXD43pkpmKenzTqtw4q>
+                <ZhtdCmZro6yfqW1YjvaY>
+                  <Szzuzda1Wy8znaA6m5P>
+                    <mO9gdYnZSuJR1LmL3vFI>
+                      <Szzuzda1Wy8znaA6m5P>
+                        <Szzuzda1Wy8znaA6m5P>
+                          <Szzuzda1Wy8znaA6m5P>
+                            <Szzuzda1Wy8znaA6m5P>
+                              <FDXD43pkpmKenzTqtw4q>
+                                <mO9gdYnZSuJR1LmL3vFI>
+                                  <Szzuzda1Wy8znaA6m5P>
+                                    <Szzuzda1Wy8znaA6m5P>
+                                      <Szzuzda1Wy8znaA6m5P>Desembarque</Szzuzda1Wy8znaA6m5P>
+                                      <YYqi7YMkywwjRFe5Kim>false</YYqi7YMkywwjRFe5Kim>
+                                    </Szzuzda1Wy8znaA6m5P>
+                                  </Szzuzda1Wy8znaA6m5P>
+                                </mO9gdYnZSuJR1LmL3vFI>
+                              </FDXD43pkpmKenzTqtw4q>
+                            </Szzuzda1Wy8znaA6m5P>
+                            <YYqi7YMkywwjRFe5Kim>
+                              <YYqi7YMkywwjRFe5Kim>&gt;</YYqi7YMkywwjRFe5Kim>
+                            </YYqi7YMkywwjRFe5Kim>
+                            <mO9gdYnZSuJR1LmL3vFI>
+                              <FDXD43pkpmKenzTqtw4q>
+                                <Szzuzda1Wy8znaA6m5P>
+                                  <Szzuzda1Wy8znaA6m5P>0</Szzuzda1Wy8znaA6m5P>
+                                </Szzuzda1Wy8znaA6m5P>
+                              </FDXD43pkpmKenzTqtw4q>
+                            </mO9gdYnZSuJR1LmL3vFI>
+                          </Szzuzda1Wy8znaA6m5P>
+                        </Szzuzda1Wy8znaA6m5P>
+                        <YYqi7YMkywwjRFe5Kim>0.0</YYqi7YMkywwjRFe5Kim>
+                        <mO9gdYnZSuJR1LmL3vFI>0.0</mO9gdYnZSuJR1LmL3vFI>
+                      </Szzuzda1Wy8znaA6m5P>
+                    </mO9gdYnZSuJR1LmL3vFI>
+                  </Szzuzda1Wy8znaA6m5P>
+                </ZhtdCmZro6yfqW1YjvaY>
+              </mO9gdYnZSuJR1LmL3vFI>
+              <FDXD43pkpmKenzTqtw4q>
+                <YYqi7YMkywwjRFe5Kim>*</YYqi7YMkywwjRFe5Kim>
+              </FDXD43pkpmKenzTqtw4q>
+              <ZhtdCmZro6yfqW1YjvaY>
+                <mO9gdYnZSuJR1LmL3vFI>
+                  <Szzuzda1Wy8znaA6m5P>
+                    <Szzuzda1Wy8znaA6m5P>
+                      <Szzuzda1Wy8znaA6m5P>1</Szzuzda1Wy8znaA6m5P>
+                    </Szzuzda1Wy8znaA6m5P>
+                  </Szzuzda1Wy8znaA6m5P>
+                </mO9gdYnZSuJR1LmL3vFI>
+                <FDXD43pkpmKenzTqtw4q>
+                  <YYqi7YMkywwjRFe5Kim>/</YYqi7YMkywwjRFe5Kim>
+                </FDXD43pkpmKenzTqtw4q>
+                <ZhtdCmZro6yfqW1YjvaY>
+                  <Szzuzda1Wy8znaA6m5P>
+                    <Szzuzda1Wy8znaA6m5P>
+                      <Szzuzda1Wy8znaA6m5P>180</Szzuzda1Wy8znaA6m5P>
+                    </Szzuzda1Wy8znaA6m5P>
+                  </Szzuzda1Wy8znaA6m5P>
+                </ZhtdCmZro6yfqW1YjvaY>
+              </ZhtdCmZro6yfqW1YjvaY>
+            </YYqi7YMkywwjRFe5Kim>
+            <mO9gdYnZSuJR1LmL3vFI>(1-(P{#Desembarque&gt;0}))*(1/180)</mO9gdYnZSuJR1LmL3vFI>
+            <FDXD43pkpmKenzTqtw4q>0.0028267601090402974</FDXD43pkpmKenzTqtw4q>
+            <ZhtdCmZro6yfqW1YjvaY class="java.awt.geom.Point2D$Double">
+              <x>9.36</x>
+              <y>4.12</y>
+            </ZhtdCmZro6yfqW1YjvaY>
+            <yWmtn6d2doiKX4QxaSdU></yWmtn6d2doiKX4QxaSdU>
+          </abcde.EUvYgVl5kneaSPSsWHDb>
+          <abcde.EUvYgVl5kneaSPSsWHDb>
+            <Szzuzda1Wy8znaA6m5P>MRT_desembarque</Szzuzda1Wy8znaA6m5P>
+            <YYqi7YMkywwjRFe5Kim>
+              <mO9gdYnZSuJR1LmL3vFI>
+                <Szzuzda1Wy8znaA6m5P>
+                  <mO9gdYnZSuJR1LmL3vFI>
+                    <YYqi7YMkywwjRFe5Kim>
+                      <Szzuzda1Wy8znaA6m5P>
+                        <FDXD43pkpmKenzTqtw4q>
+                          <mO9gdYnZSuJR1LmL3vFI>
+                            <Szzuzda1Wy8znaA6m5P>
+                              <Szzuzda1Wy8znaA6m5P>
+                                <Szzuzda1Wy8znaA6m5P>Taxi_desembarque</Szzuzda1Wy8znaA6m5P>
+                                <YYqi7YMkywwjRFe5Kim>false</YYqi7YMkywwjRFe5Kim>
+                              </Szzuzda1Wy8znaA6m5P>
+                            </Szzuzda1Wy8znaA6m5P>
+                          </mO9gdYnZSuJR1LmL3vFI>
+                        </FDXD43pkpmKenzTqtw4q>
+                      </Szzuzda1Wy8znaA6m5P>
+                      <YYqi7YMkywwjRFe5Kim/>
+                      <mO9gdYnZSuJR1LmL3vFI>0.0</mO9gdYnZSuJR1LmL3vFI>
+                    </YYqi7YMkywwjRFe5Kim>
+                  </mO9gdYnZSuJR1LmL3vFI>
+                </Szzuzda1Wy8znaA6m5P>
+              </mO9gdYnZSuJR1LmL3vFI>
+              <FDXD43pkpmKenzTqtw4q>
+                <YYqi7YMkywwjRFe5Kim>/</YYqi7YMkywwjRFe5Kim>
+              </FDXD43pkpmKenzTqtw4q>
+              <ZhtdCmZro6yfqW1YjvaY>
+                <mO9gdYnZSuJR1LmL3vFI>
+                  <mO9gdYnZSuJR1LmL3vFI>
+                    <Szzuzda1Wy8znaA6m5P>
+                      <Szzuzda1Wy8znaA6m5P>
+                        <Szzuzda1Wy8znaA6m5P>1</Szzuzda1Wy8znaA6m5P>
+                      </Szzuzda1Wy8znaA6m5P>
+                    </Szzuzda1Wy8znaA6m5P>
+                  </mO9gdYnZSuJR1LmL3vFI>
+                  <FDXD43pkpmKenzTqtw4q>
+                    <YYqi7YMkywwjRFe5Kim>-</YYqi7YMkywwjRFe5Kim>
+                  </FDXD43pkpmKenzTqtw4q>
+                  <ZhtdCmZro6yfqW1YjvaY>
+                    <Szzuzda1Wy8znaA6m5P>
+                      <mO9gdYnZSuJR1LmL3vFI>
+                        <Szzuzda1Wy8znaA6m5P>
+                          <Szzuzda1Wy8znaA6m5P>
+                            <Szzuzda1Wy8znaA6m5P>
+                              <Szzuzda1Wy8znaA6m5P>
+                                <FDXD43pkpmKenzTqtw4q>
+                                  <mO9gdYnZSuJR1LmL3vFI>
+                                    <Szzuzda1Wy8znaA6m5P>
+                                      <Szzuzda1Wy8znaA6m5P>
+                                        <Szzuzda1Wy8znaA6m5P>Desembarque</Szzuzda1Wy8znaA6m5P>
+                                        <YYqi7YMkywwjRFe5Kim>false</YYqi7YMkywwjRFe5Kim>
+                                      </Szzuzda1Wy8znaA6m5P>
+                                    </Szzuzda1Wy8znaA6m5P>
+                                  </mO9gdYnZSuJR1LmL3vFI>
+                                </FDXD43pkpmKenzTqtw4q>
+                              </Szzuzda1Wy8znaA6m5P>
+                              <YYqi7YMkywwjRFe5Kim>
+                                <YYqi7YMkywwjRFe5Kim>&gt;</YYqi7YMkywwjRFe5Kim>
+                              </YYqi7YMkywwjRFe5Kim>
+                              <mO9gdYnZSuJR1LmL3vFI>
+                                <FDXD43pkpmKenzTqtw4q>
+                                  <Szzuzda1Wy8znaA6m5P>
+                                    <Szzuzda1Wy8znaA6m5P>0</Szzuzda1Wy8znaA6m5P>
+                                  </Szzuzda1Wy8znaA6m5P>
+                                </FDXD43pkpmKenzTqtw4q>
+                              </mO9gdYnZSuJR1LmL3vFI>
+                            </Szzuzda1Wy8znaA6m5P>
+                          </Szzuzda1Wy8znaA6m5P>
+                          <YYqi7YMkywwjRFe5Kim>0.0</YYqi7YMkywwjRFe5Kim>
+                          <mO9gdYnZSuJR1LmL3vFI>0.0</mO9gdYnZSuJR1LmL3vFI>
+                        </Szzuzda1Wy8znaA6m5P>
+                      </mO9gdYnZSuJR1LmL3vFI>
+                    </Szzuzda1Wy8znaA6m5P>
+                  </ZhtdCmZro6yfqW1YjvaY>
+                </mO9gdYnZSuJR1LmL3vFI>
+                <FDXD43pkpmKenzTqtw4q>
+                  <YYqi7YMkywwjRFe5Kim>*</YYqi7YMkywwjRFe5Kim>
+                </FDXD43pkpmKenzTqtw4q>
+                <ZhtdCmZro6yfqW1YjvaY>
+                  <mO9gdYnZSuJR1LmL3vFI>
+                    <Szzuzda1Wy8znaA6m5P>
+                      <Szzuzda1Wy8znaA6m5P>
+                        <Szzuzda1Wy8znaA6m5P>1</Szzuzda1Wy8znaA6m5P>
+                      </Szzuzda1Wy8znaA6m5P>
+                    </Szzuzda1Wy8znaA6m5P>
+                  </mO9gdYnZSuJR1LmL3vFI>
+                  <FDXD43pkpmKenzTqtw4q>
+                    <YYqi7YMkywwjRFe5Kim>/</YYqi7YMkywwjRFe5Kim>
+                  </FDXD43pkpmKenzTqtw4q>
+                  <ZhtdCmZro6yfqW1YjvaY>
+                    <Szzuzda1Wy8znaA6m5P>
+                      <Szzuzda1Wy8znaA6m5P>
+                        <Szzuzda1Wy8znaA6m5P>180</Szzuzda1Wy8znaA6m5P>
+                      </Szzuzda1Wy8znaA6m5P>
+                    </Szzuzda1Wy8znaA6m5P>
+                  </ZhtdCmZro6yfqW1YjvaY>
+                </ZhtdCmZro6yfqW1YjvaY>
+              </ZhtdCmZro6yfqW1YjvaY>
+            </YYqi7YMkywwjRFe5Kim>
+            <mO9gdYnZSuJR1LmL3vFI>E{#Taxi_desembarque}/((1-(P{#Desembarque&gt;0}))*(1/180))</mO9gdYnZSuJR1LmL3vFI>
+            <FDXD43pkpmKenzTqtw4q>378.10090067761877</FDXD43pkpmKenzTqtw4q>
+            <ZhtdCmZro6yfqW1YjvaY class="java.awt.geom.Point2D$Double">
+              <x>9.44</x>
+              <y>4.24</y>
+            </ZhtdCmZro6yfqW1YjvaY>
+            <yWmtn6d2doiKX4QxaSdU></yWmtn6d2doiKX4QxaSdU>
           </abcde.EUvYgVl5kneaSPSsWHDb>
         </KuQjagj4MdTpQIi0Ohsd>
         <Z0WbnSGepwFh9BHWDA0g/>
