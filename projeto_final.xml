@@ -1,5 +1,5 @@
 <com.local.entities.ProjectDesdac>
-  <YYqi7YMkywwjRFe5Kim>C:\Users\Hugo\Desktop\Projeto_Final\Projeto_Final_Simulacao_Estocastica\projeto_final.xml</YYqi7YMkywwjRFe5Kim>
+  <YYqi7YMkywwjRFe5Kim class="sun.awt.shell.Win32ShellFolder2" resolves-to="file">C:\Users\Emanoel Rafael\Desktop\Folders\Estudos\Cadeiras\Simulação Estocástica para Comunicações\Projeto Final\Projeto_Final_Simulacao_Estocastica\projeto_final.xml</YYqi7YMkywwjRFe5Kim>
   <mO9gdYnZSuJR1LmL3vFI>true</mO9gdYnZSuJR1LmL3vFI>
   <FDXD43pkpmKenzTqtw4q>projeto_final</FDXD43pkpmKenzTqtw4q>
   <ZhtdCmZro6yfqW1YjvaY>5.2.1</ZhtdCmZro6yfqW1YjvaY>
@@ -881,8 +881,8 @@
   <ETxMy0IGUpk2glyvuaPz>
     <abcde.hDGieznhZjSwv9C0Wu2I>
       <ZhtdCmZro6yfqW1YjvaY>
-        <Szzuzda1Wy8znaA6m5P>10</Szzuzda1Wy8znaA6m5P>
-        <YYqi7YMkywwjRFe5Kim>13</YYqi7YMkywwjRFe5Kim>
+        <Szzuzda1Wy8znaA6m5P>8</Szzuzda1Wy8znaA6m5P>
+        <YYqi7YMkywwjRFe5Kim>9</YYqi7YMkywwjRFe5Kim>
         <mO9gdYnZSuJR1LmL3vFI>0</mO9gdYnZSuJR1LmL3vFI>
         <FDXD43pkpmKenzTqtw4q>13</FDXD43pkpmKenzTqtw4q>
         <ZhtdCmZro6yfqW1YjvaY>0</ZhtdCmZro6yfqW1YjvaY>
@@ -1045,7 +1045,7 @@
             <EK59Mhbt1hylyRwuMSBD></EK59Mhbt1hylyRwuMSBD>
           </abcde.A2MdclfIIoMRhyjDBH22>
           <abcde.A2MdclfIIoMRhyjDBH22>
-            <Szzuzda1Wy8znaA6m5P>Pista_1_pouso</Szzuzda1Wy8znaA6m5P>
+            <Szzuzda1Wy8znaA6m5P>Pista_Pouso</Szzuzda1Wy8znaA6m5P>
             <YYqi7YMkywwjRFe5Kim>0</YYqi7YMkywwjRFe5Kim>
             <mO9gdYnZSuJR1LmL3vFI>0</mO9gdYnZSuJR1LmL3vFI>
             <FDXD43pkpmKenzTqtw4q class="java.awt.geom.Point2D$Double">
@@ -1192,7 +1192,7 @@
                   <yWmtn6d2doiKX4QxaSdU></yWmtn6d2doiKX4QxaSdU>
                 </abcde.D0ykUwKwqzv341NC8ghj>
                 <abcde.D0ykUwKwqzv341NC8ghj>
-                  <Szzuzda1Wy8znaA6m5P defined-in="abcde.HsEpPsQMaYq5MsDD3JIJ">Liberacap_desembarque</Szzuzda1Wy8znaA6m5P>
+                  <Szzuzda1Wy8znaA6m5P defined-in="abcde.HsEpPsQMaYq5MsDD3JIJ">Liberacao_desembarque</Szzuzda1Wy8znaA6m5P>
                   <YYqi7YMkywwjRFe5Kim defined-in="abcde.HsEpPsQMaYq5MsDD3JIJ">SINGLE_SERVER</YYqi7YMkywwjRFe5Kim>
                   <mO9gdYnZSuJR1LmL3vFI defined-in="abcde.HsEpPsQMaYq5MsDD3JIJ">RACE_WITH_ENABLING_MEMORY</mO9gdYnZSuJR1LmL3vFI>
                   <FDXD43pkpmKenzTqtw4q defined-in="abcde.HsEpPsQMaYq5MsDD3JIJ">false</FDXD43pkpmKenzTqtw4q>
@@ -1510,7 +1510,7 @@
                   <yWmtn6d2doiKX4QxaSdU></yWmtn6d2doiKX4QxaSdU>
                 </abcde.D0ykUwKwqzv341NC8ghj>
                 <abcde.D0ykUwKwqzv341NC8ghj>
-                  <Szzuzda1Wy8znaA6m5P defined-in="abcde.HsEpPsQMaYq5MsDD3JIJ">Pouso_pista_1</Szzuzda1Wy8znaA6m5P>
+                  <Szzuzda1Wy8znaA6m5P defined-in="abcde.HsEpPsQMaYq5MsDD3JIJ">Pouso</Szzuzda1Wy8znaA6m5P>
                   <YYqi7YMkywwjRFe5Kim defined-in="abcde.HsEpPsQMaYq5MsDD3JIJ">SINGLE_SERVER</YYqi7YMkywwjRFe5Kim>
                   <mO9gdYnZSuJR1LmL3vFI defined-in="abcde.HsEpPsQMaYq5MsDD3JIJ">RACE_WITH_ENABLING_MEMORY</mO9gdYnZSuJR1LmL3vFI>
                   <FDXD43pkpmKenzTqtw4q defined-in="abcde.HsEpPsQMaYq5MsDD3JIJ">false</FDXD43pkpmKenzTqtw4q>
@@ -1569,7 +1569,7 @@
                             <mO9gdYnZSuJR1LmL3vFI>
                               <Szzuzda1Wy8znaA6m5P>
                                 <Szzuzda1Wy8znaA6m5P>
-                                  <Szzuzda1Wy8znaA6m5P>Pista_1_pouso</Szzuzda1Wy8znaA6m5P>
+                                  <Szzuzda1Wy8znaA6m5P>Pista_Pouso</Szzuzda1Wy8znaA6m5P>
                                   <YYqi7YMkywwjRFe5Kim>false</YYqi7YMkywwjRFe5Kim>
                                 </Szzuzda1Wy8znaA6m5P>
                               </Szzuzda1Wy8znaA6m5P>
@@ -1599,7 +1599,7 @@
                               <mO9gdYnZSuJR1LmL3vFI>
                                 <Szzuzda1Wy8znaA6m5P>
                                   <Szzuzda1Wy8znaA6m5P>
-                                    <Szzuzda1Wy8znaA6m5P>Pista_1_decolagem</Szzuzda1Wy8znaA6m5P>
+                                    <Szzuzda1Wy8znaA6m5P>Pista_Decolagem</Szzuzda1Wy8znaA6m5P>
                                     <YYqi7YMkywwjRFe5Kim>false</YYqi7YMkywwjRFe5Kim>
                                   </Szzuzda1Wy8znaA6m5P>
                                 </Szzuzda1Wy8znaA6m5P>
@@ -1649,7 +1649,7 @@
                       </ZhtdCmZro6yfqW1YjvaY>
                     </ZhtdCmZro6yfqW1YjvaY>
                   </mO9gdYnZSuJR1LmL3vFI>
-                  <FDXD43pkpmKenzTqtw4q>(#Pista_1_pouso&lt;1)AND(#Pista_1_decolagem&lt;1)AND(#Torre_Controle&gt;0)</FDXD43pkpmKenzTqtw4q>
+                  <FDXD43pkpmKenzTqtw4q>(#Pista_Pouso&lt;1)AND(#Pista_Decolagem&lt;1)AND(#Torre_Controle&gt;0)</FDXD43pkpmKenzTqtw4q>
                   <ZhtdCmZro6yfqW1YjvaY>1</ZhtdCmZro6yfqW1YjvaY>
                   <yWmtn6d2doiKX4QxaSdU></yWmtn6d2doiKX4QxaSdU>
                 </abcde.D0ykUwKwqzv341NC8ghj>
@@ -1659,20 +1659,6 @@
                   <mO9gdYnZSuJR1LmL3vFI defined-in="abcde.HsEpPsQMaYq5MsDD3JIJ">RACE_WITH_ENABLING_MEMORY</mO9gdYnZSuJR1LmL3vFI>
                   <FDXD43pkpmKenzTqtw4q defined-in="abcde.HsEpPsQMaYq5MsDD3JIJ">false</FDXD43pkpmKenzTqtw4q>
                   <ZhtdCmZro6yfqW1YjvaY defined-in="abcde.HsEpPsQMaYq5MsDD3JIJ"></ZhtdCmZro6yfqW1YjvaY>
-                  <yWmtn6d2doiKX4QxaSdU defined-in="abcde.HsEpPsQMaYq5MsDD3JIJ">
-                    <abcde.DW9DPfrq2u1ZZdUfrvqA>
-                      <Szzuzda1Wy8znaA6m5P defined-in="abcde.TdOCYFwdcKS9F2mYfYmM">12</Szzuzda1Wy8znaA6m5P>
-                      <YYqi7YMkywwjRFe5Kim reference="../../../../../../../abcde.A2MdclfIIoMRhyjDBH22"/>
-                      <mO9gdYnZSuJR1LmL3vFI>1</mO9gdYnZSuJR1LmL3vFI>
-                      <FDXD43pkpmKenzTqtw4q class="abcde.D0ykUwKwqzv341NC8ghj" reference="../../.."/>
-                    </abcde.DW9DPfrq2u1ZZdUfrvqA>
-                    <abcde.DW9DPfrq2u1ZZdUfrvqA>
-                      <Szzuzda1Wy8znaA6m5P defined-in="abcde.TdOCYFwdcKS9F2mYfYmM">12</Szzuzda1Wy8znaA6m5P>
-                      <YYqi7YMkywwjRFe5Kim reference="../../../../../../../abcde.A2MdclfIIoMRhyjDBH22[2]"/>
-                      <mO9gdYnZSuJR1LmL3vFI>1</mO9gdYnZSuJR1LmL3vFI>
-                      <FDXD43pkpmKenzTqtw4q class="abcde.D0ykUwKwqzv341NC8ghj" reference="../../.."/>
-                    </abcde.DW9DPfrq2u1ZZdUfrvqA>
-                  </yWmtn6d2doiKX4QxaSdU>
                   <jbFGuZwO3YVVN4TUFxMv>
                     <abcde.PZevL9oYvuu91svdaxo>
                       <Szzuzda1Wy8znaA6m5P defined-in="abcde.TdOCYFwdcKS9F2mYfYmM">12</Szzuzda1Wy8znaA6m5P>
@@ -1798,7 +1784,7 @@
                   <yWmtn6d2doiKX4QxaSdU></yWmtn6d2doiKX4QxaSdU>
                 </abcde.D0ykUwKwqzv341NC8ghj>
                 <abcde.D0ykUwKwqzv341NC8ghj>
-                  <Szzuzda1Wy8znaA6m5P defined-in="abcde.HsEpPsQMaYq5MsDD3JIJ">Decolagem_pista_1</Szzuzda1Wy8znaA6m5P>
+                  <Szzuzda1Wy8znaA6m5P defined-in="abcde.HsEpPsQMaYq5MsDD3JIJ">Decolagem</Szzuzda1Wy8znaA6m5P>
                   <YYqi7YMkywwjRFe5Kim defined-in="abcde.HsEpPsQMaYq5MsDD3JIJ">SINGLE_SERVER</YYqi7YMkywwjRFe5Kim>
                   <mO9gdYnZSuJR1LmL3vFI defined-in="abcde.HsEpPsQMaYq5MsDD3JIJ">RACE_WITH_ENABLING_MEMORY</mO9gdYnZSuJR1LmL3vFI>
                   <FDXD43pkpmKenzTqtw4q defined-in="abcde.HsEpPsQMaYq5MsDD3JIJ">false</FDXD43pkpmKenzTqtw4q>
@@ -1821,12 +1807,12 @@
                     <abcde.PZevL9oYvuu91svdaxo>
                       <Szzuzda1Wy8znaA6m5P defined-in="abcde.TdOCYFwdcKS9F2mYfYmM">12</Szzuzda1Wy8znaA6m5P>
                       <YYqi7YMkywwjRFe5Kim>
-                        <Szzuzda1Wy8znaA6m5P>Pista_1_decolagem</Szzuzda1Wy8znaA6m5P>
+                        <Szzuzda1Wy8znaA6m5P>Pista_Decolagem</Szzuzda1Wy8znaA6m5P>
                         <YYqi7YMkywwjRFe5Kim>0</YYqi7YMkywwjRFe5Kim>
                         <mO9gdYnZSuJR1LmL3vFI>0</mO9gdYnZSuJR1LmL3vFI>
                         <FDXD43pkpmKenzTqtw4q class="java.awt.geom.Point2D$Double">
                           <x>4.0</x>
-                          <y>3.72</y>
+                          <y>3.76</y>
                         </FDXD43pkpmKenzTqtw4q>
                         <ZhtdCmZro6yfqW1YjvaY class="java.awt.Point">
                           <x>565</x>
@@ -1872,7 +1858,7 @@
                             <mO9gdYnZSuJR1LmL3vFI>
                               <Szzuzda1Wy8znaA6m5P>
                                 <Szzuzda1Wy8znaA6m5P>
-                                  <Szzuzda1Wy8znaA6m5P>Pista_1_decolagem</Szzuzda1Wy8znaA6m5P>
+                                  <Szzuzda1Wy8znaA6m5P>Pista_Decolagem</Szzuzda1Wy8znaA6m5P>
                                   <YYqi7YMkywwjRFe5Kim>false</YYqi7YMkywwjRFe5Kim>
                                 </Szzuzda1Wy8znaA6m5P>
                               </Szzuzda1Wy8znaA6m5P>
@@ -1932,7 +1918,7 @@
                                 <mO9gdYnZSuJR1LmL3vFI>
                                   <Szzuzda1Wy8znaA6m5P>
                                     <Szzuzda1Wy8znaA6m5P>
-                                      <Szzuzda1Wy8znaA6m5P>Pista_1_pouso</Szzuzda1Wy8znaA6m5P>
+                                      <Szzuzda1Wy8znaA6m5P>Pista_Pouso</Szzuzda1Wy8znaA6m5P>
                                       <YYqi7YMkywwjRFe5Kim>false</YYqi7YMkywwjRFe5Kim>
                                     </Szzuzda1Wy8znaA6m5P>
                                   </Szzuzda1Wy8znaA6m5P>
@@ -1983,7 +1969,7 @@
                       </ZhtdCmZro6yfqW1YjvaY>
                     </ZhtdCmZro6yfqW1YjvaY>
                   </mO9gdYnZSuJR1LmL3vFI>
-                  <FDXD43pkpmKenzTqtw4q>(#Pista_1_decolagem&lt;1)AND(#Torre_Controle&gt;0)AND(#Pista_1_pouso&lt;1)AND(#Espera_pouso&lt;1)</FDXD43pkpmKenzTqtw4q>
+                  <FDXD43pkpmKenzTqtw4q>(#Pista_Decolagem&lt;1)AND(#Torre_Controle&gt;0)AND(#Pista_Pouso&lt;1)AND(#Espera_pouso&lt;1)</FDXD43pkpmKenzTqtw4q>
                   <ZhtdCmZro6yfqW1YjvaY>1</ZhtdCmZro6yfqW1YjvaY>
                   <yWmtn6d2doiKX4QxaSdU></yWmtn6d2doiKX4QxaSdU>
                 </abcde.D0ykUwKwqzv341NC8ghj>
@@ -1993,20 +1979,6 @@
                   <mO9gdYnZSuJR1LmL3vFI defined-in="abcde.HsEpPsQMaYq5MsDD3JIJ">RACE_WITH_ENABLING_MEMORY</mO9gdYnZSuJR1LmL3vFI>
                   <FDXD43pkpmKenzTqtw4q defined-in="abcde.HsEpPsQMaYq5MsDD3JIJ">false</FDXD43pkpmKenzTqtw4q>
                   <ZhtdCmZro6yfqW1YjvaY defined-in="abcde.HsEpPsQMaYq5MsDD3JIJ"></ZhtdCmZro6yfqW1YjvaY>
-                  <yWmtn6d2doiKX4QxaSdU defined-in="abcde.HsEpPsQMaYq5MsDD3JIJ">
-                    <abcde.DW9DPfrq2u1ZZdUfrvqA>
-                      <Szzuzda1Wy8znaA6m5P defined-in="abcde.TdOCYFwdcKS9F2mYfYmM">12</Szzuzda1Wy8znaA6m5P>
-                      <YYqi7YMkywwjRFe5Kim reference="../../../../../jbFGuZwO3YVVN4TUFxMv/abcde.A2MdclfIIoMRhyjDBH22[8]"/>
-                      <mO9gdYnZSuJR1LmL3vFI>1</mO9gdYnZSuJR1LmL3vFI>
-                      <FDXD43pkpmKenzTqtw4q class="abcde.D0ykUwKwqzv341NC8ghj" reference="../../.."/>
-                    </abcde.DW9DPfrq2u1ZZdUfrvqA>
-                    <abcde.DW9DPfrq2u1ZZdUfrvqA>
-                      <Szzuzda1Wy8znaA6m5P defined-in="abcde.TdOCYFwdcKS9F2mYfYmM">12</Szzuzda1Wy8znaA6m5P>
-                      <YYqi7YMkywwjRFe5Kim reference="../../../../../../../abcde.A2MdclfIIoMRhyjDBH22[2]"/>
-                      <mO9gdYnZSuJR1LmL3vFI>1</mO9gdYnZSuJR1LmL3vFI>
-                      <FDXD43pkpmKenzTqtw4q class="abcde.D0ykUwKwqzv341NC8ghj" reference="../../.."/>
-                    </abcde.DW9DPfrq2u1ZZdUfrvqA>
-                  </yWmtn6d2doiKX4QxaSdU>
                   <jbFGuZwO3YVVN4TUFxMv>
                     <abcde.PZevL9oYvuu91svdaxo>
                       <Szzuzda1Wy8znaA6m5P defined-in="abcde.TdOCYFwdcKS9F2mYfYmM">12</Szzuzda1Wy8znaA6m5P>
@@ -2178,7 +2150,7 @@
                   <yWmtn6d2doiKX4QxaSdU></yWmtn6d2doiKX4QxaSdU>
                 </abcde.D0ykUwKwqzv341NC8ghj>
                 <abcde.D0ykUwKwqzv341NC8ghj>
-                  <Szzuzda1Wy8znaA6m5P defined-in="abcde.HsEpPsQMaYq5MsDD3JIJ">Liberacao_pista_pouso</Szzuzda1Wy8znaA6m5P>
+                  <Szzuzda1Wy8znaA6m5P defined-in="abcde.HsEpPsQMaYq5MsDD3JIJ">Liberacao_Pista_Pouso</Szzuzda1Wy8znaA6m5P>
                   <YYqi7YMkywwjRFe5Kim defined-in="abcde.HsEpPsQMaYq5MsDD3JIJ">SINGLE_SERVER</YYqi7YMkywwjRFe5Kim>
                   <mO9gdYnZSuJR1LmL3vFI defined-in="abcde.HsEpPsQMaYq5MsDD3JIJ">RACE_WITH_ENABLING_MEMORY</mO9gdYnZSuJR1LmL3vFI>
                   <FDXD43pkpmKenzTqtw4q defined-in="abcde.HsEpPsQMaYq5MsDD3JIJ">false</FDXD43pkpmKenzTqtw4q>
@@ -2297,14 +2269,6 @@
                   <mO9gdYnZSuJR1LmL3vFI defined-in="abcde.HsEpPsQMaYq5MsDD3JIJ">RACE_WITH_ENABLING_MEMORY</mO9gdYnZSuJR1LmL3vFI>
                   <FDXD43pkpmKenzTqtw4q defined-in="abcde.HsEpPsQMaYq5MsDD3JIJ">false</FDXD43pkpmKenzTqtw4q>
                   <ZhtdCmZro6yfqW1YjvaY defined-in="abcde.HsEpPsQMaYq5MsDD3JIJ"></ZhtdCmZro6yfqW1YjvaY>
-                  <yWmtn6d2doiKX4QxaSdU defined-in="abcde.HsEpPsQMaYq5MsDD3JIJ">
-                    <abcde.DW9DPfrq2u1ZZdUfrvqA>
-                      <Szzuzda1Wy8znaA6m5P defined-in="abcde.TdOCYFwdcKS9F2mYfYmM">12</Szzuzda1Wy8znaA6m5P>
-                      <YYqi7YMkywwjRFe5Kim reference="../../../../../jbFGuZwO3YVVN4TUFxMv/abcde.A2MdclfIIoMRhyjDBH22[4]"/>
-                      <mO9gdYnZSuJR1LmL3vFI>1</mO9gdYnZSuJR1LmL3vFI>
-                      <FDXD43pkpmKenzTqtw4q class="abcde.D0ykUwKwqzv341NC8ghj" reference="../../.."/>
-                    </abcde.DW9DPfrq2u1ZZdUfrvqA>
-                  </yWmtn6d2doiKX4QxaSdU>
                   <jbFGuZwO3YVVN4TUFxMv>
                     <abcde.PZevL9oYvuu91svdaxo>
                       <Szzuzda1Wy8znaA6m5P defined-in="abcde.TdOCYFwdcKS9F2mYfYmM">12</Szzuzda1Wy8znaA6m5P>
@@ -2398,12 +2362,6 @@
                         </org.jgraph.graph.AttributeMap_-SerializablePoint2D>
                       </ZhtdCmZro6yfqW1YjvaY>
                     </abcde.PZevL9oYvuu91svdaxo>
-                    <abcde.PZevL9oYvuu91svdaxo>
-                      <Szzuzda1Wy8znaA6m5P defined-in="abcde.TdOCYFwdcKS9F2mYfYmM">12</Szzuzda1Wy8znaA6m5P>
-                      <YYqi7YMkywwjRFe5Kim reference="../../../../../jbFGuZwO3YVVN4TUFxMv/abcde.A2MdclfIIoMRhyjDBH22[5]"/>
-                      <mO9gdYnZSuJR1LmL3vFI>1</mO9gdYnZSuJR1LmL3vFI>
-                      <FDXD43pkpmKenzTqtw4q class="abcde.D0ykUwKwqzv341NC8ghj" reference="../../.."/>
-                    </abcde.PZevL9oYvuu91svdaxo>
                   </jbFGuZwO3YVVN4TUFxMv>
                   <LCIws3JWF5lWCjhafOk class="java.awt.geom.Point2D$Double">
                     <x>2.8266666666666667</x>
@@ -2457,7 +2415,7 @@
                   </YYqi7YMkywwjRFe5Kim>
                 </abcde.Xii9lKUsPozVtyjSrf8u>
                 <abcde.Xii9lKUsPozVtyjSrf8u>
-                  <Szzuzda1Wy8znaA6m5P>Pista_1_pouso</Szzuzda1Wy8znaA6m5P>
+                  <Szzuzda1Wy8znaA6m5P>Pista_Pouso</Szzuzda1Wy8znaA6m5P>
                   <YYqi7YMkywwjRFe5Kim class="java.awt.geom.Point2D$Double">
                     <x>1.4133333333333333</x>
                     <y>4.08</y>
@@ -2485,7 +2443,7 @@
                   </YYqi7YMkywwjRFe5Kim>
                 </abcde.Xii9lKUsPozVtyjSrf8u>
                 <abcde.Xii9lKUsPozVtyjSrf8u>
-                  <Szzuzda1Wy8znaA6m5P>Liberacap_desembarque</Szzuzda1Wy8znaA6m5P>
+                  <Szzuzda1Wy8znaA6m5P>Liberacao_desembarque</Szzuzda1Wy8znaA6m5P>
                   <YYqi7YMkywwjRFe5Kim class="java.awt.geom.Point2D$Double">
                     <x>6.250666666666667</x>
                     <y>2.016</y>
@@ -2527,10 +2485,10 @@
                   </YYqi7YMkywwjRFe5Kim>
                 </abcde.Xii9lKUsPozVtyjSrf8u>
                 <abcde.Xii9lKUsPozVtyjSrf8u>
-                  <Szzuzda1Wy8znaA6m5P>Pouso_pista_1</Szzuzda1Wy8znaA6m5P>
+                  <Szzuzda1Wy8znaA6m5P>Pouso</Szzuzda1Wy8znaA6m5P>
                   <YYqi7YMkywwjRFe5Kim class="java.awt.geom.Point2D$Double">
-                    <x>1.5480000000000003</x>
-                    <y>5.434666666666667</y>
+                    <x>1.7869333333333335</x>
+                    <y>5.477333333333333</y>
                   </YYqi7YMkywwjRFe5Kim>
                 </abcde.Xii9lKUsPozVtyjSrf8u>
                 <abcde.Xii9lKUsPozVtyjSrf8u>
@@ -2541,10 +2499,10 @@
                   </YYqi7YMkywwjRFe5Kim>
                 </abcde.Xii9lKUsPozVtyjSrf8u>
                 <abcde.Xii9lKUsPozVtyjSrf8u>
-                  <Szzuzda1Wy8znaA6m5P>Decolagem_pista_1</Szzuzda1Wy8znaA6m5P>
+                  <Szzuzda1Wy8znaA6m5P>Decolagem</Szzuzda1Wy8znaA6m5P>
                   <YYqi7YMkywwjRFe5Kim class="java.awt.geom.Point2D$Double">
-                    <x>4.024</x>
-                    <y>5.351999999999999</y>
+                    <x>3.5845333333333347</x>
+                    <y>5.151466666666667</y>
                   </YYqi7YMkywwjRFe5Kim>
                 </abcde.Xii9lKUsPozVtyjSrf8u>
                 <abcde.Xii9lKUsPozVtyjSrf8u>
@@ -2555,7 +2513,7 @@
                   </YYqi7YMkywwjRFe5Kim>
                 </abcde.Xii9lKUsPozVtyjSrf8u>
                 <abcde.Xii9lKUsPozVtyjSrf8u>
-                  <Szzuzda1Wy8znaA6m5P>Liberacao_pista_pouso</Szzuzda1Wy8znaA6m5P>
+                  <Szzuzda1Wy8znaA6m5P>Liberacao_Pista_Pouso</Szzuzda1Wy8znaA6m5P>
                   <YYqi7YMkywwjRFe5Kim class="java.awt.geom.Point2D$Double">
                     <x>2.0</x>
                     <y>2.44</y>
@@ -2575,13 +2533,11 @@
             <jbFGuZwO3YVVN4TUFxMv>0</jbFGuZwO3YVVN4TUFxMv>
             <EK59Mhbt1hylyRwuMSBD></EK59Mhbt1hylyRwuMSBD>
           </abcde.A2MdclfIIoMRhyjDBH22>
-          <abcde.A2MdclfIIoMRhyjDBH22 reference="../abcde.A2MdclfIIoMRhyjDBH22[3]/yWmtn6d2doiKX4QxaSdU/jbFGuZwO3YVVN4TUFxMv/abcde.A2MdclfIIoMRhyjDBH22[4]"/>
           <abcde.A2MdclfIIoMRhyjDBH22 reference="../abcde.A2MdclfIIoMRhyjDBH22[3]/yWmtn6d2doiKX4QxaSdU/jbFGuZwO3YVVN4TUFxMv/abcde.A2MdclfIIoMRhyjDBH22[5]"/>
           <abcde.A2MdclfIIoMRhyjDBH22 reference="../abcde.A2MdclfIIoMRhyjDBH22[3]/yWmtn6d2doiKX4QxaSdU/jbFGuZwO3YVVN4TUFxMv/abcde.A2MdclfIIoMRhyjDBH22[6]"/>
           <abcde.A2MdclfIIoMRhyjDBH22 reference="../abcde.A2MdclfIIoMRhyjDBH22[3]/yWmtn6d2doiKX4QxaSdU/jbFGuZwO3YVVN4TUFxMv/abcde.A2MdclfIIoMRhyjDBH22[7]"/>
           <abcde.A2MdclfIIoMRhyjDBH22 reference="../abcde.A2MdclfIIoMRhyjDBH22[3]/yWmtn6d2doiKX4QxaSdU/jbFGuZwO3YVVN4TUFxMv/abcde.A2MdclfIIoMRhyjDBH22[8]"/>
           <abcde.A2MdclfIIoMRhyjDBH22 reference="../abcde.A2MdclfIIoMRhyjDBH22[3]/yWmtn6d2doiKX4QxaSdU/LCIws3JWF5lWCjhafOk/abcde.D0ykUwKwqzv341NC8ghj[8]/jbFGuZwO3YVVN4TUFxMv/abcde.PZevL9oYvuu91svdaxo/YYqi7YMkywwjRFe5Kim"/>
-          <abcde.A2MdclfIIoMRhyjDBH22 reference="../abcde.A2MdclfIIoMRhyjDBH22[3]/yWmtn6d2doiKX4QxaSdU/LCIws3JWF5lWCjhafOk/abcde.D0ykUwKwqzv341NC8ghj[9]/jbFGuZwO3YVVN4TUFxMv/abcde.PZevL9oYvuu91svdaxo/YYqi7YMkywwjRFe5Kim"/>
         </jbFGuZwO3YVVN4TUFxMv>
         <EK59Mhbt1hylyRwuMSBD/>
         <LCIws3JWF5lWCjhafOk>
@@ -2591,13 +2547,10 @@
           <abcde.D0ykUwKwqzv341NC8ghj reference="../../jbFGuZwO3YVVN4TUFxMv/abcde.A2MdclfIIoMRhyjDBH22[3]/yWmtn6d2doiKX4QxaSdU/LCIws3JWF5lWCjhafOk/abcde.D0ykUwKwqzv341NC8ghj[4]"/>
           <abcde.D0ykUwKwqzv341NC8ghj reference="../../jbFGuZwO3YVVN4TUFxMv/abcde.A2MdclfIIoMRhyjDBH22[3]/yWmtn6d2doiKX4QxaSdU/LCIws3JWF5lWCjhafOk/abcde.D0ykUwKwqzv341NC8ghj[5]"/>
           <abcde.D0ykUwKwqzv341NC8ghj reference="../../jbFGuZwO3YVVN4TUFxMv/abcde.A2MdclfIIoMRhyjDBH22[3]/yWmtn6d2doiKX4QxaSdU/LCIws3JWF5lWCjhafOk/abcde.D0ykUwKwqzv341NC8ghj[6]"/>
-          <abcde.D0ykUwKwqzv341NC8ghj reference="../../jbFGuZwO3YVVN4TUFxMv/abcde.A2MdclfIIoMRhyjDBH22[3]/yWmtn6d2doiKX4QxaSdU/LCIws3JWF5lWCjhafOk/abcde.D0ykUwKwqzv341NC8ghj[7]"/>
           <abcde.D0ykUwKwqzv341NC8ghj reference="../../jbFGuZwO3YVVN4TUFxMv/abcde.A2MdclfIIoMRhyjDBH22[3]/yWmtn6d2doiKX4QxaSdU/LCIws3JWF5lWCjhafOk/abcde.D0ykUwKwqzv341NC8ghj[8]"/>
-          <abcde.D0ykUwKwqzv341NC8ghj reference="../../jbFGuZwO3YVVN4TUFxMv/abcde.A2MdclfIIoMRhyjDBH22[3]/yWmtn6d2doiKX4QxaSdU/LCIws3JWF5lWCjhafOk/abcde.D0ykUwKwqzv341NC8ghj[9]"/>
           <abcde.D0ykUwKwqzv341NC8ghj reference="../../jbFGuZwO3YVVN4TUFxMv/abcde.A2MdclfIIoMRhyjDBH22[3]/yWmtn6d2doiKX4QxaSdU/LCIws3JWF5lWCjhafOk/abcde.D0ykUwKwqzv341NC8ghj[10]"/>
-          <abcde.D0ykUwKwqzv341NC8ghj reference="../../jbFGuZwO3YVVN4TUFxMv/abcde.A2MdclfIIoMRhyjDBH22[3]/yWmtn6d2doiKX4QxaSdU/LCIws3JWF5lWCjhafOk/abcde.D0ykUwKwqzv341NC8ghj[11]"/>
           <abcde.D0ykUwKwqzv341NC8ghj>
-            <Szzuzda1Wy8znaA6m5P defined-in="abcde.HsEpPsQMaYq5MsDD3JIJ">Liberacao_pista_1_decolagem</Szzuzda1Wy8znaA6m5P>
+            <Szzuzda1Wy8znaA6m5P defined-in="abcde.HsEpPsQMaYq5MsDD3JIJ">Liberacao_Pista_Decolagem</Szzuzda1Wy8znaA6m5P>
             <YYqi7YMkywwjRFe5Kim defined-in="abcde.HsEpPsQMaYq5MsDD3JIJ">SINGLE_SERVER</YYqi7YMkywwjRFe5Kim>
             <mO9gdYnZSuJR1LmL3vFI defined-in="abcde.HsEpPsQMaYq5MsDD3JIJ">RACE_WITH_ENABLING_MEMORY</mO9gdYnZSuJR1LmL3vFI>
             <FDXD43pkpmKenzTqtw4q defined-in="abcde.HsEpPsQMaYq5MsDD3JIJ">false</FDXD43pkpmKenzTqtw4q>
@@ -2732,177 +2685,12 @@
             <ZhtdCmZro6yfqW1YjvaY>1</ZhtdCmZro6yfqW1YjvaY>
             <yWmtn6d2doiKX4QxaSdU></yWmtn6d2doiKX4QxaSdU>
           </abcde.D0ykUwKwqzv341NC8ghj>
-          <abcde.D0ykUwKwqzv341NC8ghj>
-            <Szzuzda1Wy8znaA6m5P defined-in="abcde.HsEpPsQMaYq5MsDD3JIJ">Liberacao_pista_2_decolagem</Szzuzda1Wy8znaA6m5P>
-            <YYqi7YMkywwjRFe5Kim defined-in="abcde.HsEpPsQMaYq5MsDD3JIJ">SINGLE_SERVER</YYqi7YMkywwjRFe5Kim>
-            <mO9gdYnZSuJR1LmL3vFI defined-in="abcde.HsEpPsQMaYq5MsDD3JIJ">RACE_WITH_ENABLING_MEMORY</mO9gdYnZSuJR1LmL3vFI>
-            <FDXD43pkpmKenzTqtw4q defined-in="abcde.HsEpPsQMaYq5MsDD3JIJ">false</FDXD43pkpmKenzTqtw4q>
-            <ZhtdCmZro6yfqW1YjvaY defined-in="abcde.HsEpPsQMaYq5MsDD3JIJ"></ZhtdCmZro6yfqW1YjvaY>
-            <yWmtn6d2doiKX4QxaSdU defined-in="abcde.HsEpPsQMaYq5MsDD3JIJ">
-              <abcde.DW9DPfrq2u1ZZdUfrvqA>
-                <Szzuzda1Wy8znaA6m5P defined-in="abcde.TdOCYFwdcKS9F2mYfYmM">12</Szzuzda1Wy8znaA6m5P>
-                <YYqi7YMkywwjRFe5Kim reference="../../../../../jbFGuZwO3YVVN4TUFxMv/abcde.A2MdclfIIoMRhyjDBH22[3]/yWmtn6d2doiKX4QxaSdU/LCIws3JWF5lWCjhafOk/abcde.D0ykUwKwqzv341NC8ghj[9]/jbFGuZwO3YVVN4TUFxMv/abcde.PZevL9oYvuu91svdaxo/YYqi7YMkywwjRFe5Kim"/>
-                <mO9gdYnZSuJR1LmL3vFI>1</mO9gdYnZSuJR1LmL3vFI>
-                <FDXD43pkpmKenzTqtw4q class="abcde.D0ykUwKwqzv341NC8ghj" reference="../../.."/>
-              </abcde.DW9DPfrq2u1ZZdUfrvqA>
-            </yWmtn6d2doiKX4QxaSdU>
-            <jbFGuZwO3YVVN4TUFxMv>
-              <abcde.PZevL9oYvuu91svdaxo>
-                <Szzuzda1Wy8znaA6m5P defined-in="abcde.TdOCYFwdcKS9F2mYfYmM">12</Szzuzda1Wy8znaA6m5P>
-                <YYqi7YMkywwjRFe5Kim reference="../../../../../jbFGuZwO3YVVN4TUFxMv/abcde.A2MdclfIIoMRhyjDBH22[2]"/>
-                <mO9gdYnZSuJR1LmL3vFI>1</mO9gdYnZSuJR1LmL3vFI>
-                <FDXD43pkpmKenzTqtw4q class="abcde.D0ykUwKwqzv341NC8ghj" reference="../../.."/>
-                <ZhtdCmZro6yfqW1YjvaY>
-                  <org.jgraph.graph.AttributeMap_-SerializablePoint2D serialization="custom">
-                    <unserializable-parents/>
-                    <java.awt.geom.Point2D_-Double>
-                      <default>
-                        <x>768.0</x>
-                        <y>461.20647002854423</y>
-                      </default>
-                    </java.awt.geom.Point2D_-Double>
-                    <org.jgraph.graph.AttributeMap_-SerializablePoint2D>
-                      <default/>
-                      <double>768.0</double>
-                      <double>461.20647002854423</double>
-                    </org.jgraph.graph.AttributeMap_-SerializablePoint2D>
-                  </org.jgraph.graph.AttributeMap_-SerializablePoint2D>
-                  <org.jgraph.graph.AttributeMap_-SerializablePoint2D serialization="custom">
-                    <unserializable-parents/>
-                    <java.awt.geom.Point2D_-Double>
-                      <default>
-                        <x>252.0</x>
-                        <y>228.0</y>
-                      </default>
-                    </java.awt.geom.Point2D_-Double>
-                    <org.jgraph.graph.AttributeMap_-SerializablePoint2D>
-                      <default/>
-                      <double>252.0</double>
-                      <double>228.0</double>
-                    </org.jgraph.graph.AttributeMap_-SerializablePoint2D>
-                  </org.jgraph.graph.AttributeMap_-SerializablePoint2D>
-                  <org.jgraph.graph.AttributeMap_-SerializablePoint2D serialization="custom">
-                    <unserializable-parents/>
-                    <java.awt.geom.Point2D_-Double>
-                      <default>
-                        <x>78.0</x>
-                        <y>618.0</y>
-                      </default>
-                    </java.awt.geom.Point2D_-Double>
-                    <org.jgraph.graph.AttributeMap_-SerializablePoint2D>
-                      <default/>
-                      <double>78.0</double>
-                      <double>618.0</double>
-                    </org.jgraph.graph.AttributeMap_-SerializablePoint2D>
-                  </org.jgraph.graph.AttributeMap_-SerializablePoint2D>
-                  <org.jgraph.graph.AttributeMap_-SerializablePoint2D serialization="custom">
-                    <unserializable-parents/>
-                    <java.awt.geom.Point2D_-Double>
-                      <default>
-                        <x>84.0</x>
-                        <y>984.0</y>
-                      </default>
-                    </java.awt.geom.Point2D_-Double>
-                    <org.jgraph.graph.AttributeMap_-SerializablePoint2D>
-                      <default/>
-                      <double>84.0</double>
-                      <double>984.0</double>
-                    </org.jgraph.graph.AttributeMap_-SerializablePoint2D>
-                  </org.jgraph.graph.AttributeMap_-SerializablePoint2D>
-                  <org.jgraph.graph.AttributeMap_-SerializablePoint2D serialization="custom">
-                    <unserializable-parents/>
-                    <java.awt.geom.Point2D_-Double>
-                      <default>
-                        <x>144.0</x>
-                        <y>1122.0</y>
-                      </default>
-                    </java.awt.geom.Point2D_-Double>
-                    <org.jgraph.graph.AttributeMap_-SerializablePoint2D>
-                      <default/>
-                      <double>144.0</double>
-                      <double>1122.0</double>
-                    </org.jgraph.graph.AttributeMap_-SerializablePoint2D>
-                  </org.jgraph.graph.AttributeMap_-SerializablePoint2D>
-                  <org.jgraph.graph.AttributeMap_-SerializablePoint2D serialization="custom">
-                    <unserializable-parents/>
-                    <java.awt.geom.Point2D_-Double>
-                      <default>
-                        <x>408.0</x>
-                        <y>1266.0</y>
-                      </default>
-                    </java.awt.geom.Point2D_-Double>
-                    <org.jgraph.graph.AttributeMap_-SerializablePoint2D>
-                      <default/>
-                      <double>408.0</double>
-                      <double>1266.0</double>
-                    </org.jgraph.graph.AttributeMap_-SerializablePoint2D>
-                  </org.jgraph.graph.AttributeMap_-SerializablePoint2D>
-                  <org.jgraph.graph.AttributeMap_-SerializablePoint2D serialization="custom">
-                    <unserializable-parents/>
-                    <java.awt.geom.Point2D_-Double>
-                      <default>
-                        <x>678.0</x>
-                        <y>1218.0</y>
-                      </default>
-                    </java.awt.geom.Point2D_-Double>
-                    <org.jgraph.graph.AttributeMap_-SerializablePoint2D>
-                      <default/>
-                      <double>678.0</double>
-                      <double>1218.0</double>
-                    </org.jgraph.graph.AttributeMap_-SerializablePoint2D>
-                  </org.jgraph.graph.AttributeMap_-SerializablePoint2D>
-                  <org.jgraph.graph.AttributeMap_-SerializablePoint2D serialization="custom">
-                    <unserializable-parents/>
-                    <java.awt.geom.Point2D_-Double>
-                      <default>
-                        <x>712.1159396769006</x>
-                        <y>1099.2419821373715</y>
-                      </default>
-                    </java.awt.geom.Point2D_-Double>
-                    <org.jgraph.graph.AttributeMap_-SerializablePoint2D>
-                      <default/>
-                      <double>712.1159396769006</double>
-                      <double>1099.2419821373715</double>
-                    </org.jgraph.graph.AttributeMap_-SerializablePoint2D>
-                  </org.jgraph.graph.AttributeMap_-SerializablePoint2D>
-                </ZhtdCmZro6yfqW1YjvaY>
-              </abcde.PZevL9oYvuu91svdaxo>
-            </jbFGuZwO3YVVN4TUFxMv>
-            <LCIws3JWF5lWCjhafOk class="java.awt.geom.Point2D$Double">
-              <x>4.986666666666666</x>
-              <y>2.6933333333333334</y>
-            </LCIws3JWF5lWCjhafOk>
-            <KuQjagj4MdTpQIi0Ohsd>19.0</KuQjagj4MdTpQIi0Ohsd>
-            <Z0WbnSGepwFh9BHWDA0g>43.0</Z0WbnSGepwFh9BHWDA0g>
-            <TdOCYFwdcKS9F2mYfYmM>0</TdOCYFwdcKS9F2mYfYmM>
-            <Szzuzda1Wy8znaA6m5P class="org.modcs.tools.spn.simulator.randomvariates.ExponentialRandomVariateGenerator">
-              <YYqi7YMkywwjRFe5Kim>
-                <entry>
-                  <string>Mean delay</string>
-                  <org.modcs.tools.spn.simulator.randomvariates.DefaulRandomParameterProvider>
-                    <Szzuzda1Wy8znaA6m5P>240.0</Szzuzda1Wy8znaA6m5P>
-                  </org.modcs.tools.spn.simulator.randomvariates.DefaulRandomParameterProvider>
-                </entry>
-              </YYqi7YMkywwjRFe5Kim>
-              <mO9gdYnZSuJR1LmL3vFI>
-                <string>Mean delay</string>
-              </mO9gdYnZSuJR1LmL3vFI>
-              <Szzuzda1Wy8znaA6m5P reference="../mO9gdYnZSuJR1LmL3vFI"/>
-              <ZhtdCmZro6yfqW1YjvaY>
-                <double>0.0</double>
-              </ZhtdCmZro6yfqW1YjvaY>
-            </Szzuzda1Wy8znaA6m5P>
-            <FDXD43pkpmKenzTqtw4q></FDXD43pkpmKenzTqtw4q>
-            <ZhtdCmZro6yfqW1YjvaY>1</ZhtdCmZro6yfqW1YjvaY>
-            <yWmtn6d2doiKX4QxaSdU></yWmtn6d2doiKX4QxaSdU>
-          </abcde.D0ykUwKwqzv341NC8ghj>
         </LCIws3JWF5lWCjhafOk>
         <FWOWpURpNuQYsTRburJT>
           <abcde.Xii9lKUsPozVtyjSrf8u reference="../../jbFGuZwO3YVVN4TUFxMv/abcde.A2MdclfIIoMRhyjDBH22[3]/yWmtn6d2doiKX4QxaSdU/FWOWpURpNuQYsTRburJT/abcde.Xii9lKUsPozVtyjSrf8u"/>
           <abcde.Xii9lKUsPozVtyjSrf8u reference="../../jbFGuZwO3YVVN4TUFxMv/abcde.A2MdclfIIoMRhyjDBH22[3]/yWmtn6d2doiKX4QxaSdU/FWOWpURpNuQYsTRburJT/abcde.Xii9lKUsPozVtyjSrf8u[2]"/>
           <abcde.Xii9lKUsPozVtyjSrf8u reference="../../jbFGuZwO3YVVN4TUFxMv/abcde.A2MdclfIIoMRhyjDBH22[3]/yWmtn6d2doiKX4QxaSdU/FWOWpURpNuQYsTRburJT/abcde.Xii9lKUsPozVtyjSrf8u[3]"/>
           <abcde.Xii9lKUsPozVtyjSrf8u reference="../../jbFGuZwO3YVVN4TUFxMv/abcde.A2MdclfIIoMRhyjDBH22[3]/yWmtn6d2doiKX4QxaSdU/FWOWpURpNuQYsTRburJT/abcde.Xii9lKUsPozVtyjSrf8u[4]"/>
-          <abcde.Xii9lKUsPozVtyjSrf8u reference="../../jbFGuZwO3YVVN4TUFxMv/abcde.A2MdclfIIoMRhyjDBH22[3]/yWmtn6d2doiKX4QxaSdU/FWOWpURpNuQYsTRburJT/abcde.Xii9lKUsPozVtyjSrf8u[5]"/>
           <abcde.Xii9lKUsPozVtyjSrf8u reference="../../jbFGuZwO3YVVN4TUFxMv/abcde.A2MdclfIIoMRhyjDBH22[3]/yWmtn6d2doiKX4QxaSdU/FWOWpURpNuQYsTRburJT/abcde.Xii9lKUsPozVtyjSrf8u[6]"/>
           <abcde.Xii9lKUsPozVtyjSrf8u reference="../../jbFGuZwO3YVVN4TUFxMv/abcde.A2MdclfIIoMRhyjDBH22[3]/yWmtn6d2doiKX4QxaSdU/FWOWpURpNuQYsTRburJT/abcde.Xii9lKUsPozVtyjSrf8u[7]"/>
           <abcde.Xii9lKUsPozVtyjSrf8u reference="../../jbFGuZwO3YVVN4TUFxMv/abcde.A2MdclfIIoMRhyjDBH22[3]/yWmtn6d2doiKX4QxaSdU/FWOWpURpNuQYsTRburJT/abcde.Xii9lKUsPozVtyjSrf8u[8]"/>
@@ -2912,37 +2700,20 @@
           <abcde.Xii9lKUsPozVtyjSrf8u reference="../../jbFGuZwO3YVVN4TUFxMv/abcde.A2MdclfIIoMRhyjDBH22[3]/yWmtn6d2doiKX4QxaSdU/FWOWpURpNuQYsTRburJT/abcde.Xii9lKUsPozVtyjSrf8u[12]"/>
           <abcde.Xii9lKUsPozVtyjSrf8u reference="../../jbFGuZwO3YVVN4TUFxMv/abcde.A2MdclfIIoMRhyjDBH22[3]/yWmtn6d2doiKX4QxaSdU/FWOWpURpNuQYsTRburJT/abcde.Xii9lKUsPozVtyjSrf8u[13]"/>
           <abcde.Xii9lKUsPozVtyjSrf8u reference="../../jbFGuZwO3YVVN4TUFxMv/abcde.A2MdclfIIoMRhyjDBH22[3]/yWmtn6d2doiKX4QxaSdU/FWOWpURpNuQYsTRburJT/abcde.Xii9lKUsPozVtyjSrf8u[14]"/>
-          <abcde.Xii9lKUsPozVtyjSrf8u reference="../../jbFGuZwO3YVVN4TUFxMv/abcde.A2MdclfIIoMRhyjDBH22[3]/yWmtn6d2doiKX4QxaSdU/FWOWpURpNuQYsTRburJT/abcde.Xii9lKUsPozVtyjSrf8u[15]"/>
           <abcde.Xii9lKUsPozVtyjSrf8u reference="../../jbFGuZwO3YVVN4TUFxMv/abcde.A2MdclfIIoMRhyjDBH22[3]/yWmtn6d2doiKX4QxaSdU/FWOWpURpNuQYsTRburJT/abcde.Xii9lKUsPozVtyjSrf8u[16]"/>
-          <abcde.Xii9lKUsPozVtyjSrf8u reference="../../jbFGuZwO3YVVN4TUFxMv/abcde.A2MdclfIIoMRhyjDBH22[3]/yWmtn6d2doiKX4QxaSdU/FWOWpURpNuQYsTRburJT/abcde.Xii9lKUsPozVtyjSrf8u[17]"/>
           <abcde.Xii9lKUsPozVtyjSrf8u reference="../../jbFGuZwO3YVVN4TUFxMv/abcde.A2MdclfIIoMRhyjDBH22[3]/yWmtn6d2doiKX4QxaSdU/FWOWpURpNuQYsTRburJT/abcde.Xii9lKUsPozVtyjSrf8u[18]"/>
-          <abcde.Xii9lKUsPozVtyjSrf8u reference="../../jbFGuZwO3YVVN4TUFxMv/abcde.A2MdclfIIoMRhyjDBH22[3]/yWmtn6d2doiKX4QxaSdU/FWOWpURpNuQYsTRburJT/abcde.Xii9lKUsPozVtyjSrf8u[19]"/>
           <abcde.Xii9lKUsPozVtyjSrf8u>
-            <Szzuzda1Wy8znaA6m5P>Pista_1_decolagem</Szzuzda1Wy8znaA6m5P>
+            <Szzuzda1Wy8znaA6m5P>Pista_Decolagem</Szzuzda1Wy8znaA6m5P>
             <YYqi7YMkywwjRFe5Kim class="java.awt.geom.Point2D$Double">
               <x>3.82</x>
               <y>4.1066666666666665</y>
             </YYqi7YMkywwjRFe5Kim>
           </abcde.Xii9lKUsPozVtyjSrf8u>
           <abcde.Xii9lKUsPozVtyjSrf8u>
-            <Szzuzda1Wy8znaA6m5P>Pista_2_decolagem</Szzuzda1Wy8znaA6m5P>
-            <YYqi7YMkywwjRFe5Kim class="java.awt.geom.Point2D$Double">
-              <x>4.946666666666666</x>
-              <y>4.2</y>
-            </YYqi7YMkywwjRFe5Kim>
-          </abcde.Xii9lKUsPozVtyjSrf8u>
-          <abcde.Xii9lKUsPozVtyjSrf8u>
-            <Szzuzda1Wy8znaA6m5P>Liberacao_pista_1_decolagem</Szzuzda1Wy8znaA6m5P>
+            <Szzuzda1Wy8znaA6m5P>Liberacao_Pista_Decolagem</Szzuzda1Wy8znaA6m5P>
             <YYqi7YMkywwjRFe5Kim class="java.awt.geom.Point2D$Double">
               <x>3.52</x>
               <y>3.3666666666666667</y>
-            </YYqi7YMkywwjRFe5Kim>
-          </abcde.Xii9lKUsPozVtyjSrf8u>
-          <abcde.Xii9lKUsPozVtyjSrf8u>
-            <Szzuzda1Wy8znaA6m5P>Liberacao_pista_2_decolagem</Szzuzda1Wy8znaA6m5P>
-            <YYqi7YMkywwjRFe5Kim class="java.awt.geom.Point2D$Double">
-              <x>5.18</x>
-              <y>3.36</y>
             </YYqi7YMkywwjRFe5Kim>
           </abcde.Xii9lKUsPozVtyjSrf8u>
         </FWOWpURpNuQYsTRburJT>
