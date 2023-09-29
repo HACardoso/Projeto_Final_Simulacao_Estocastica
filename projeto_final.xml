@@ -1,5 +1,5 @@
 <com.local.entities.ProjectDesdac>
-  <YYqi7YMkywwjRFe5Kim class="sun.awt.shell.Win32ShellFolder2" resolves-to="file">C:\Users\Emanoel Rafael\Desktop\Folders\Estudos\Cadeiras\Simulação Estocástica para Comunicações\Projeto Final\Projeto_Final_Simulacao_Estocastica\projeto_final.xml</YYqi7YMkywwjRFe5Kim>
+  <YYqi7YMkywwjRFe5Kim>C:\Users\Hugo\Desktop\Projeto_Final\Projeto_Final_Simulacao_Estocastica\projeto_final.xml</YYqi7YMkywwjRFe5Kim>
   <mO9gdYnZSuJR1LmL3vFI>true</mO9gdYnZSuJR1LmL3vFI>
   <FDXD43pkpmKenzTqtw4q>projeto_final</FDXD43pkpmKenzTqtw4q>
   <ZhtdCmZro6yfqW1YjvaY>5.2.1</ZhtdCmZro6yfqW1YjvaY>
@@ -1278,6 +1278,7 @@
                                 <YYqi7YMkywwjRFe5Kim>false</YYqi7YMkywwjRFe5Kim>
                               </Szzuzda1Wy8znaA6m5P>
                             </Szzuzda1Wy8znaA6m5P>
+                            <YYqi7YMkywwjRFe5Kim reference="../../../../../../../../jbFGuZwO3YVVN4TUFxMv/abcde.A2MdclfIIoMRhyjDBH22[6]"/>
                           </mO9gdYnZSuJR1LmL3vFI>
                         </FDXD43pkpmKenzTqtw4q>
                       </Szzuzda1Wy8znaA6m5P>
@@ -1414,6 +1415,7 @@
                                 <YYqi7YMkywwjRFe5Kim>false</YYqi7YMkywwjRFe5Kim>
                               </Szzuzda1Wy8znaA6m5P>
                             </Szzuzda1Wy8znaA6m5P>
+                            <YYqi7YMkywwjRFe5Kim reference="../../../../../../../../jbFGuZwO3YVVN4TUFxMv/abcde.A2MdclfIIoMRhyjDBH22[7]"/>
                           </mO9gdYnZSuJR1LmL3vFI>
                         </FDXD43pkpmKenzTqtw4q>
                       </Szzuzda1Wy8znaA6m5P>
@@ -1490,6 +1492,7 @@
                                 <YYqi7YMkywwjRFe5Kim>false</YYqi7YMkywwjRFe5Kim>
                               </Szzuzda1Wy8znaA6m5P>
                             </Szzuzda1Wy8znaA6m5P>
+                            <YYqi7YMkywwjRFe5Kim reference="../../../../../../../../jbFGuZwO3YVVN4TUFxMv/abcde.A2MdclfIIoMRhyjDBH22[7]"/>
                           </mO9gdYnZSuJR1LmL3vFI>
                         </FDXD43pkpmKenzTqtw4q>
                       </Szzuzda1Wy8znaA6m5P>
@@ -1562,94 +1565,33 @@
                     </ZhtdCmZro6yfqW1YjvaY>
                   </Szzuzda1Wy8znaA6m5P>
                   <mO9gdYnZSuJR1LmL3vFI>
-                    <mO9gdYnZSuJR1LmL3vFI>
+                    <Szzuzda1Wy8znaA6m5P>
                       <Szzuzda1Wy8znaA6m5P>
-                        <Szzuzda1Wy8znaA6m5P>
-                          <FDXD43pkpmKenzTqtw4q>
-                            <mO9gdYnZSuJR1LmL3vFI>
-                              <Szzuzda1Wy8znaA6m5P>
-                                <Szzuzda1Wy8znaA6m5P>
-                                  <Szzuzda1Wy8znaA6m5P>Pista_Pouso</Szzuzda1Wy8znaA6m5P>
-                                  <YYqi7YMkywwjRFe5Kim>false</YYqi7YMkywwjRFe5Kim>
-                                </Szzuzda1Wy8znaA6m5P>
-                              </Szzuzda1Wy8znaA6m5P>
-                            </mO9gdYnZSuJR1LmL3vFI>
-                          </FDXD43pkpmKenzTqtw4q>
-                        </Szzuzda1Wy8znaA6m5P>
-                        <YYqi7YMkywwjRFe5Kim>
-                          <YYqi7YMkywwjRFe5Kim>&lt;</YYqi7YMkywwjRFe5Kim>
-                        </YYqi7YMkywwjRFe5Kim>
-                        <mO9gdYnZSuJR1LmL3vFI>
-                          <FDXD43pkpmKenzTqtw4q>
+                        <FDXD43pkpmKenzTqtw4q>
+                          <mO9gdYnZSuJR1LmL3vFI>
                             <Szzuzda1Wy8znaA6m5P>
-                              <Szzuzda1Wy8znaA6m5P>1</Szzuzda1Wy8znaA6m5P>
+                              <Szzuzda1Wy8znaA6m5P>
+                                <Szzuzda1Wy8znaA6m5P>Torre_Controle</Szzuzda1Wy8znaA6m5P>
+                                <YYqi7YMkywwjRFe5Kim>false</YYqi7YMkywwjRFe5Kim>
+                              </Szzuzda1Wy8znaA6m5P>
                             </Szzuzda1Wy8znaA6m5P>
-                          </FDXD43pkpmKenzTqtw4q>
-                        </mO9gdYnZSuJR1LmL3vFI>
+                            <YYqi7YMkywwjRFe5Kim reference="../../../../../../../../../../abcde.A2MdclfIIoMRhyjDBH22[2]"/>
+                          </mO9gdYnZSuJR1LmL3vFI>
+                        </FDXD43pkpmKenzTqtw4q>
                       </Szzuzda1Wy8znaA6m5P>
-                    </mO9gdYnZSuJR1LmL3vFI>
-                    <FDXD43pkpmKenzTqtw4q>
-                      <YYqi7YMkywwjRFe5Kim>AND</YYqi7YMkywwjRFe5Kim>
-                    </FDXD43pkpmKenzTqtw4q>
-                    <ZhtdCmZro6yfqW1YjvaY>
+                      <YYqi7YMkywwjRFe5Kim>
+                        <YYqi7YMkywwjRFe5Kim>&gt;</YYqi7YMkywwjRFe5Kim>
+                      </YYqi7YMkywwjRFe5Kim>
                       <mO9gdYnZSuJR1LmL3vFI>
-                        <Szzuzda1Wy8znaA6m5P>
+                        <FDXD43pkpmKenzTqtw4q>
                           <Szzuzda1Wy8znaA6m5P>
-                            <FDXD43pkpmKenzTqtw4q>
-                              <mO9gdYnZSuJR1LmL3vFI>
-                                <Szzuzda1Wy8znaA6m5P>
-                                  <Szzuzda1Wy8znaA6m5P>
-                                    <Szzuzda1Wy8znaA6m5P>Pista_Decolagem</Szzuzda1Wy8znaA6m5P>
-                                    <YYqi7YMkywwjRFe5Kim>false</YYqi7YMkywwjRFe5Kim>
-                                  </Szzuzda1Wy8znaA6m5P>
-                                </Szzuzda1Wy8znaA6m5P>
-                              </mO9gdYnZSuJR1LmL3vFI>
-                            </FDXD43pkpmKenzTqtw4q>
+                            <Szzuzda1Wy8znaA6m5P>0</Szzuzda1Wy8znaA6m5P>
                           </Szzuzda1Wy8znaA6m5P>
-                          <YYqi7YMkywwjRFe5Kim>
-                            <YYqi7YMkywwjRFe5Kim>&lt;</YYqi7YMkywwjRFe5Kim>
-                          </YYqi7YMkywwjRFe5Kim>
-                          <mO9gdYnZSuJR1LmL3vFI>
-                            <FDXD43pkpmKenzTqtw4q>
-                              <Szzuzda1Wy8znaA6m5P>
-                                <Szzuzda1Wy8znaA6m5P>1</Szzuzda1Wy8znaA6m5P>
-                              </Szzuzda1Wy8znaA6m5P>
-                            </FDXD43pkpmKenzTqtw4q>
-                          </mO9gdYnZSuJR1LmL3vFI>
-                        </Szzuzda1Wy8znaA6m5P>
+                        </FDXD43pkpmKenzTqtw4q>
                       </mO9gdYnZSuJR1LmL3vFI>
-                      <FDXD43pkpmKenzTqtw4q>
-                        <YYqi7YMkywwjRFe5Kim>AND</YYqi7YMkywwjRFe5Kim>
-                      </FDXD43pkpmKenzTqtw4q>
-                      <ZhtdCmZro6yfqW1YjvaY>
-                        <Szzuzda1Wy8znaA6m5P>
-                          <Szzuzda1Wy8znaA6m5P>
-                            <FDXD43pkpmKenzTqtw4q>
-                              <mO9gdYnZSuJR1LmL3vFI>
-                                <Szzuzda1Wy8znaA6m5P>
-                                  <Szzuzda1Wy8znaA6m5P>
-                                    <Szzuzda1Wy8znaA6m5P>Torre_Controle</Szzuzda1Wy8znaA6m5P>
-                                    <YYqi7YMkywwjRFe5Kim>false</YYqi7YMkywwjRFe5Kim>
-                                  </Szzuzda1Wy8znaA6m5P>
-                                </Szzuzda1Wy8znaA6m5P>
-                              </mO9gdYnZSuJR1LmL3vFI>
-                            </FDXD43pkpmKenzTqtw4q>
-                          </Szzuzda1Wy8znaA6m5P>
-                          <YYqi7YMkywwjRFe5Kim>
-                            <YYqi7YMkywwjRFe5Kim>&gt;</YYqi7YMkywwjRFe5Kim>
-                          </YYqi7YMkywwjRFe5Kim>
-                          <mO9gdYnZSuJR1LmL3vFI>
-                            <FDXD43pkpmKenzTqtw4q>
-                              <Szzuzda1Wy8znaA6m5P>
-                                <Szzuzda1Wy8znaA6m5P>0</Szzuzda1Wy8znaA6m5P>
-                              </Szzuzda1Wy8znaA6m5P>
-                            </FDXD43pkpmKenzTqtw4q>
-                          </mO9gdYnZSuJR1LmL3vFI>
-                        </Szzuzda1Wy8znaA6m5P>
-                      </ZhtdCmZro6yfqW1YjvaY>
-                    </ZhtdCmZro6yfqW1YjvaY>
+                    </Szzuzda1Wy8znaA6m5P>
                   </mO9gdYnZSuJR1LmL3vFI>
-                  <FDXD43pkpmKenzTqtw4q>(#Pista_Pouso&lt;1)AND(#Pista_Decolagem&lt;1)AND(#Torre_Controle&gt;0)</FDXD43pkpmKenzTqtw4q>
+                  <FDXD43pkpmKenzTqtw4q>(#Torre_Controle&gt;0)</FDXD43pkpmKenzTqtw4q>
                   <ZhtdCmZro6yfqW1YjvaY>1</ZhtdCmZro6yfqW1YjvaY>
                   <yWmtn6d2doiKX4QxaSdU></yWmtn6d2doiKX4QxaSdU>
                 </abcde.D0ykUwKwqzv341NC8ghj>
@@ -1858,10 +1800,41 @@
                             <mO9gdYnZSuJR1LmL3vFI>
                               <Szzuzda1Wy8znaA6m5P>
                                 <Szzuzda1Wy8znaA6m5P>
-                                  <Szzuzda1Wy8znaA6m5P>Pista_Decolagem</Szzuzda1Wy8znaA6m5P>
+                                  <Szzuzda1Wy8znaA6m5P>Torre_Controle</Szzuzda1Wy8znaA6m5P>
                                   <YYqi7YMkywwjRFe5Kim>false</YYqi7YMkywwjRFe5Kim>
                                 </Szzuzda1Wy8znaA6m5P>
                               </Szzuzda1Wy8znaA6m5P>
+                              <YYqi7YMkywwjRFe5Kim reference="../../../../../../../../../../../abcde.A2MdclfIIoMRhyjDBH22[2]"/>
+                            </mO9gdYnZSuJR1LmL3vFI>
+                          </FDXD43pkpmKenzTqtw4q>
+                        </Szzuzda1Wy8znaA6m5P>
+                        <YYqi7YMkywwjRFe5Kim>
+                          <YYqi7YMkywwjRFe5Kim>&gt;</YYqi7YMkywwjRFe5Kim>
+                        </YYqi7YMkywwjRFe5Kim>
+                        <mO9gdYnZSuJR1LmL3vFI>
+                          <FDXD43pkpmKenzTqtw4q>
+                            <Szzuzda1Wy8znaA6m5P>
+                              <Szzuzda1Wy8znaA6m5P>0</Szzuzda1Wy8znaA6m5P>
+                            </Szzuzda1Wy8znaA6m5P>
+                          </FDXD43pkpmKenzTqtw4q>
+                        </mO9gdYnZSuJR1LmL3vFI>
+                      </Szzuzda1Wy8znaA6m5P>
+                    </mO9gdYnZSuJR1LmL3vFI>
+                    <FDXD43pkpmKenzTqtw4q>
+                      <YYqi7YMkywwjRFe5Kim>AND</YYqi7YMkywwjRFe5Kim>
+                    </FDXD43pkpmKenzTqtw4q>
+                    <ZhtdCmZro6yfqW1YjvaY>
+                      <Szzuzda1Wy8znaA6m5P>
+                        <Szzuzda1Wy8znaA6m5P>
+                          <FDXD43pkpmKenzTqtw4q>
+                            <mO9gdYnZSuJR1LmL3vFI>
+                              <Szzuzda1Wy8znaA6m5P>
+                                <Szzuzda1Wy8znaA6m5P>
+                                  <Szzuzda1Wy8znaA6m5P>Espera_pouso</Szzuzda1Wy8znaA6m5P>
+                                  <YYqi7YMkywwjRFe5Kim>false</YYqi7YMkywwjRFe5Kim>
+                                </Szzuzda1Wy8znaA6m5P>
+                              </Szzuzda1Wy8znaA6m5P>
+                              <YYqi7YMkywwjRFe5Kim reference="../../../../../../../../../../../abcde.A2MdclfIIoMRhyjDBH22"/>
                             </mO9gdYnZSuJR1LmL3vFI>
                           </FDXD43pkpmKenzTqtw4q>
                         </Szzuzda1Wy8znaA6m5P>
@@ -1876,100 +1849,9 @@
                           </FDXD43pkpmKenzTqtw4q>
                         </mO9gdYnZSuJR1LmL3vFI>
                       </Szzuzda1Wy8znaA6m5P>
-                    </mO9gdYnZSuJR1LmL3vFI>
-                    <FDXD43pkpmKenzTqtw4q>
-                      <YYqi7YMkywwjRFe5Kim>AND</YYqi7YMkywwjRFe5Kim>
-                    </FDXD43pkpmKenzTqtw4q>
-                    <ZhtdCmZro6yfqW1YjvaY>
-                      <mO9gdYnZSuJR1LmL3vFI>
-                        <Szzuzda1Wy8znaA6m5P>
-                          <Szzuzda1Wy8znaA6m5P>
-                            <FDXD43pkpmKenzTqtw4q>
-                              <mO9gdYnZSuJR1LmL3vFI>
-                                <Szzuzda1Wy8znaA6m5P>
-                                  <Szzuzda1Wy8znaA6m5P>
-                                    <Szzuzda1Wy8znaA6m5P>Torre_Controle</Szzuzda1Wy8znaA6m5P>
-                                    <YYqi7YMkywwjRFe5Kim>false</YYqi7YMkywwjRFe5Kim>
-                                  </Szzuzda1Wy8znaA6m5P>
-                                </Szzuzda1Wy8znaA6m5P>
-                              </mO9gdYnZSuJR1LmL3vFI>
-                            </FDXD43pkpmKenzTqtw4q>
-                          </Szzuzda1Wy8znaA6m5P>
-                          <YYqi7YMkywwjRFe5Kim>
-                            <YYqi7YMkywwjRFe5Kim>&gt;</YYqi7YMkywwjRFe5Kim>
-                          </YYqi7YMkywwjRFe5Kim>
-                          <mO9gdYnZSuJR1LmL3vFI>
-                            <FDXD43pkpmKenzTqtw4q>
-                              <Szzuzda1Wy8znaA6m5P>
-                                <Szzuzda1Wy8znaA6m5P>0</Szzuzda1Wy8znaA6m5P>
-                              </Szzuzda1Wy8znaA6m5P>
-                            </FDXD43pkpmKenzTqtw4q>
-                          </mO9gdYnZSuJR1LmL3vFI>
-                        </Szzuzda1Wy8znaA6m5P>
-                      </mO9gdYnZSuJR1LmL3vFI>
-                      <FDXD43pkpmKenzTqtw4q>
-                        <YYqi7YMkywwjRFe5Kim>AND</YYqi7YMkywwjRFe5Kim>
-                      </FDXD43pkpmKenzTqtw4q>
-                      <ZhtdCmZro6yfqW1YjvaY>
-                        <mO9gdYnZSuJR1LmL3vFI>
-                          <Szzuzda1Wy8znaA6m5P>
-                            <Szzuzda1Wy8znaA6m5P>
-                              <FDXD43pkpmKenzTqtw4q>
-                                <mO9gdYnZSuJR1LmL3vFI>
-                                  <Szzuzda1Wy8znaA6m5P>
-                                    <Szzuzda1Wy8znaA6m5P>
-                                      <Szzuzda1Wy8znaA6m5P>Pista_Pouso</Szzuzda1Wy8znaA6m5P>
-                                      <YYqi7YMkywwjRFe5Kim>false</YYqi7YMkywwjRFe5Kim>
-                                    </Szzuzda1Wy8znaA6m5P>
-                                  </Szzuzda1Wy8znaA6m5P>
-                                </mO9gdYnZSuJR1LmL3vFI>
-                              </FDXD43pkpmKenzTqtw4q>
-                            </Szzuzda1Wy8znaA6m5P>
-                            <YYqi7YMkywwjRFe5Kim>
-                              <YYqi7YMkywwjRFe5Kim>&lt;</YYqi7YMkywwjRFe5Kim>
-                            </YYqi7YMkywwjRFe5Kim>
-                            <mO9gdYnZSuJR1LmL3vFI>
-                              <FDXD43pkpmKenzTqtw4q>
-                                <Szzuzda1Wy8znaA6m5P>
-                                  <Szzuzda1Wy8znaA6m5P>1</Szzuzda1Wy8znaA6m5P>
-                                </Szzuzda1Wy8znaA6m5P>
-                              </FDXD43pkpmKenzTqtw4q>
-                            </mO9gdYnZSuJR1LmL3vFI>
-                          </Szzuzda1Wy8znaA6m5P>
-                        </mO9gdYnZSuJR1LmL3vFI>
-                        <FDXD43pkpmKenzTqtw4q>
-                          <YYqi7YMkywwjRFe5Kim>AND</YYqi7YMkywwjRFe5Kim>
-                        </FDXD43pkpmKenzTqtw4q>
-                        <ZhtdCmZro6yfqW1YjvaY>
-                          <Szzuzda1Wy8znaA6m5P>
-                            <Szzuzda1Wy8znaA6m5P>
-                              <FDXD43pkpmKenzTqtw4q>
-                                <mO9gdYnZSuJR1LmL3vFI>
-                                  <Szzuzda1Wy8znaA6m5P>
-                                    <Szzuzda1Wy8znaA6m5P>
-                                      <Szzuzda1Wy8znaA6m5P>Espera_pouso</Szzuzda1Wy8znaA6m5P>
-                                      <YYqi7YMkywwjRFe5Kim>false</YYqi7YMkywwjRFe5Kim>
-                                    </Szzuzda1Wy8znaA6m5P>
-                                  </Szzuzda1Wy8znaA6m5P>
-                                </mO9gdYnZSuJR1LmL3vFI>
-                              </FDXD43pkpmKenzTqtw4q>
-                            </Szzuzda1Wy8znaA6m5P>
-                            <YYqi7YMkywwjRFe5Kim>
-                              <YYqi7YMkywwjRFe5Kim>&lt;</YYqi7YMkywwjRFe5Kim>
-                            </YYqi7YMkywwjRFe5Kim>
-                            <mO9gdYnZSuJR1LmL3vFI>
-                              <FDXD43pkpmKenzTqtw4q>
-                                <Szzuzda1Wy8znaA6m5P>
-                                  <Szzuzda1Wy8znaA6m5P>1</Szzuzda1Wy8znaA6m5P>
-                                </Szzuzda1Wy8znaA6m5P>
-                              </FDXD43pkpmKenzTqtw4q>
-                            </mO9gdYnZSuJR1LmL3vFI>
-                          </Szzuzda1Wy8znaA6m5P>
-                        </ZhtdCmZro6yfqW1YjvaY>
-                      </ZhtdCmZro6yfqW1YjvaY>
                     </ZhtdCmZro6yfqW1YjvaY>
                   </mO9gdYnZSuJR1LmL3vFI>
-                  <FDXD43pkpmKenzTqtw4q>(#Pista_Decolagem&lt;1)AND(#Torre_Controle&gt;0)AND(#Pista_Pouso&lt;1)AND(#Espera_pouso&lt;1)</FDXD43pkpmKenzTqtw4q>
+                  <FDXD43pkpmKenzTqtw4q>(#Torre_Controle&gt;0)AND(#Espera_pouso&lt;1)</FDXD43pkpmKenzTqtw4q>
                   <ZhtdCmZro6yfqW1YjvaY>1</ZhtdCmZro6yfqW1YjvaY>
                   <yWmtn6d2doiKX4QxaSdU></yWmtn6d2doiKX4QxaSdU>
                 </abcde.D0ykUwKwqzv341NC8ghj>
@@ -2759,8 +2641,8 @@
             <mO9gdYnZSuJR1LmL3vFI>P{#Torre_Controle=0}</mO9gdYnZSuJR1LmL3vFI>
             <FDXD43pkpmKenzTqtw4q>0.042843728287828196</FDXD43pkpmKenzTqtw4q>
             <ZhtdCmZro6yfqW1YjvaY class="java.awt.geom.Point2D$Double">
-              <x>9.4</x>
-              <y>0.4</y>
+              <x>9.28</x>
+              <y>0.68</y>
             </ZhtdCmZro6yfqW1YjvaY>
             <yWmtn6d2doiKX4QxaSdU></yWmtn6d2doiKX4QxaSdU>
           </abcde.EUvYgVl5kneaSPSsWHDb>
